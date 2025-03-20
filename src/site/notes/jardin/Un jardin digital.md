@@ -4,7 +4,7 @@
 
 Bienvenue au jardin.
 Issu d'une réflexion constante à propos du web francophone, ce *jardin digital* vise à organiser ma pensée et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
-Les sujets incluront mes intérêts personnels et mes recherches, en tant que citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront contextualisées en français, à défaut d'être complètement traduites.
+Les sujets incluront mes intérêts personnels et mes recherches, en tant que citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## [[jardin/À propos\|À propos]]
 
 ## Articles
