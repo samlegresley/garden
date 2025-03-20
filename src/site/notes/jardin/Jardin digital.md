@@ -1,5 +1,4 @@
 ---
-{"dg-home":true,"dg-path":"Jardin digital.md","permalink":"/jardin-digital/","tags":["gardenEntry"]},
 {"dg-publish":true,"dg-path":"Jardin digital.md","permalink":"/jardin-digital/","tags":["gardenEntry"]}
 ---
 
