@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin/tondre-ou-ne-pas-tondre-sa-pelouse-en-mai/"}
+{"dg-publish":true,"dg-path":"🍅 Tondre ou ne pas tondre sa pelouse en mai.md","permalink":"/tondre-ou-ne-pas-tondre-sa-pelouse-en-mai/"}
 ---
 
 *Cet article de blogue a été publié sur mon site amelan.ca en 2023. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*

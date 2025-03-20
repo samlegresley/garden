@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin/a-propos/"}
+{"dg-publish":true,"dg-path":"À propos.md","permalink":"/a-propos/"}
 ---
 
 ## Qui suis-je?
