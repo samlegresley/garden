@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/jardin/un-jardin-digital/","tags":["gardenEntry"]}
+{"dg-home":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"tags":["gardenEntry"]}
 ---
 
 Bienvenue au jardin.
