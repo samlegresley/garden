@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/jardin/tondre-ou-ne-pas-tondre-sa-pelouse-en-mai/"}
 ---
 
-
 *Cet article de blogue a été publié sur mon site amelan.ca en 2023. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*
 
 «Pas de tondeuse en mai, c’est bon pour les abeilles parce que ça donne une source de pollen précoce aux pollinisateurs.» Depuis quelques années, on entend ici en Amérique du Nord ce discours qui tire son origine du Royaume-Uni. Il peut être vrai pour certaines régions de notre propre continent, mais même dans ce cas il faut être correctement outillé pour en parler de la bonne façon.
