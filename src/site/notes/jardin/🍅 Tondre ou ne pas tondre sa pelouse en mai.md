@@ -151,4 +151,5 @@ Voici quelques suggestions si vous trouvez des plantes en pépinière :
 
 ---
 
-C’est tout pour les questions! Restez curieux et prenez votre temps. La nature est la meilleure guide. Continuez à suivre mon blogue et abonnez-vous ci-dessous.
+C’est tout pour les questions! Restez curieux et prenez votre temps. 
+### Retour au Jardin digital
