@@ -1,5 +1,4 @@
 ---
-{"dg-home":true,"permalink":"/jardin/un-jardin-digital/","tags":["gardenEntry"]}
 {"dg-publish":true,"permalink":"/jardin/un-jardin-digital/","tags":["gardenEntry"]}
 ---
 
@@ -8,6 +7,7 @@ Issu d'une réflexion constante à propos du web francophone, ce *jardin digital
 Les sujets incluront mes intérêts personnels et mes recherches, en tant que citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront contextualisées en français, à défaut d'être complètement traduites.
 ## [[jardin/À propos\|À propos]]
 
+## Articles
 Cela dit, je vous lance une première réflexion, issue de mon blogue lancé en 2023, *amelan.ca*: 
 ### [[jardin/🍅 Tondre ou ne pas tondre sa pelouse en mai\|🍅 Tondre ou ne pas tondre sa pelouse en mai]]
 
