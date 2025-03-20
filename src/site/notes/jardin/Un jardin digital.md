@@ -9,7 +9,7 @@ Les sujets incluront mes intérêts personnels et mes recherches, en tant que ci
 ![sam.png|250](/img/user/sam.png)
 Je suis Samuel LeGresley, j'aime jardiner (oui, avec des plantes) et j'aime bien penser en images et en mots. Je tends à plusieurs espaces sur le Web dans mon temps libre, en français (que je traduis aussi en anglais):
 
-- [L'Initiative Semences Sauvages](semencessauvages.org)
+- [L'Initiative Semences Sauvages](https://semencessauvages.org)
 	- Le blogue [Partager notre nature](https://nature.semencessauvages.org/)
 - [Le club de journal nature des Maritimes, Hémiboréal](https://hemiboreal.com/fr/)
 
