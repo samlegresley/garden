@@ -151,4 +151,6 @@ Voici quelques suggestions si vous trouvez des plantes en pépinière :
 
 ---
 
-C’est tout pour les questions! Restez curieux et prenez votre temps. 
+C’est tout pour les questions! Restez curieux et prenez le temps d'observer et d'aller dehors. Voici d'autres ressources intéressantes :
+- Bee City Canada - _[Le Défi Pissenlits : Une perspective Bee City Canada](https://beecitycanada.org/fr/no-mow-may-a-bee-city-canada-perspective/)_
+- Gail Langellotto (en anglais) - _[The Controversy Surrounding ‘No Mow May’](https://blogs.oregonstate.edu/gardenecologylab/2023/09/20/the-controversy-surrounding-no-mow-may/_)_
