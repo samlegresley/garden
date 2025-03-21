@@ -18,7 +18,7 @@ C’est pourquoi Fleurbec a inclus, dans sa _Flore printanière_, un guide sur u
 
 La _Flore printanière_ utilise le mot « rébarbatif » (défini par le Robert comme un adjectif signifiant difficile et ennuyeux) pour parler des noms scientifiques jugés incompréhensibles pour le grand public.
 
-C’est le cas de le dire, surtout lorsque toutes les espèces du genre_ Aster _autrefois classées comme "Aster d'Amérique" ont été reclassées sous le genre_ _Symphyotrichum_, un nom, disons-le, peu évocateur. On ne va pas renommer l'aster d'Amérique à "Symphyotriche" (un mot inventé, mais qui ressemblerait davantage au latin), donc en effet, dans toutes les langues, on utilise encore le nom Aster pour désigner ce genre.
+C’est le cas de le dire, surtout lorsque toutes les espèces du genre _Aster_ autrefois classées comme "Aster d'Amérique" ont été reclassées sous le genre _Symphyotrichum_, un nom, disons-le, peu évocateur. On ne va pas renommer l'aster d'Amérique à "Symphyotriche" (un mot inventé, mais qui ressemblerait davantage au latin), donc en effet, dans toutes les langues, on utilise encore le nom Aster pour désigner ce genre.
 #### Pourquoi le nom simple est-il important?
 
 Les plantes étant à la base de la chaîne alimentaire, il serait fou de négliger les végétaux qui nourrissent toutes les espèces, incluant nous. Il faut remédier à l’illettrisme botanique, à ce que j’appelle le « mur vert » de chaque côté de soi, lorsqu’on marche dans une forêt sans en connaître les plantes.
