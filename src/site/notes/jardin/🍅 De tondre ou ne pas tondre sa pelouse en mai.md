@@ -152,4 +152,3 @@ Voici quelques suggestions si vous trouvez des plantes en pépinière :
 ---
 
 C’est tout pour les questions! Restez curieux et prenez votre temps. 
-### Retour au Jardin digital
