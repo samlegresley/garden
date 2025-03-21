@@ -3,7 +3,7 @@
 ---
 
 Bienvenue au jardin.
-Issu d'une réflexion constante à propos du web francophone, ce *jardin digital* vise à organiser ma pensée et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
+Issu d'une réflexion constante à propos du web francophone, je lance ce *jardin digital* au printemps 2025. Il vise à organiser ma pensée et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels et mes recherches, en tant que citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
 ![sam.png|250](/img/user/sam.png)
@@ -24,7 +24,7 @@ Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plan(t)s*
 Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
-### [[jardin/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
-### [[jardin/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
+### [[jardin/Sujets/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
+### [[jardin/Sujets/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
 
 *Revenez sur cette page pour connaître mes autres réflexions.*
