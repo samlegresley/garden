@@ -24,7 +24,7 @@ Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plan(t)s*
 Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
-### [[jardin/🍅 De tondre ou ne pas tondre sa pelouse en mai\|🍅 De tondre ou ne pas tondre sa pelouse en mai]]
+### [[jardin/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
 ### [[jardin/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
 
 *Revenez sur cette page pour connaître mes autres réflexions.*
