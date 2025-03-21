@@ -23,7 +23,8 @@ C'est une approche moins "officielle", plus expérimentale, que le blogue. On ap
 Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux seront : le bourgeon 🌱, la fleur 🌼 et le fruit 🍅.
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plan(t)s*
-Cela dit, je vous lance une première réflexion, issue de mon blogue lancé en 2023, *amelan.ca*: 
+Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
 ### [[jardin/🍅 De tondre ou ne pas tondre sa pelouse en mai\|🍅 De tondre ou ne pas tondre sa pelouse en mai]]
+### [[jardin/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
 
 *Revenez sur cette page pour connaître mes autres réflexions.*

@@ -8,7 +8,7 @@
 
 Mais n’ayez crainte! Vous pouvez commencer n’importe quand à aider nos pollinisateurs. En prenant le point de vue de la nature, posons-nous des questions sur cette pratique assez répandue aujourd’hui. Restez à l’écoute, plus de questions seront publiées ici au cours du mois de mai.
 
-_Note: Cet article est publié pour la forêt Acadienne-Wabanaki, à l’est de l’Amérique du Nord, du point de vue de la zone de rusticité 5 dans les provinces Maritimes. Lisez ci-dessous pour plus de détails._ _Faites preuve d’un esprit critique et consultez vos ressources locales pour déterminer quand est le meilleur temps de laisser votre gazon pousser!_
+_Note: Cet article est publié pour la forêt Acadienne-Wabanaki, à l’est de l’Amérique du Nord, du point de vue de la zone de rusticité 5 dans les provinces Maritimes. Lisez ci-dessous pour plus de détails. Faites preuve d’un esprit critique et consultez vos ressources locales pour déterminer quand est le meilleur temps de laisser votre gazon pousser!_
 
 En tant qu’activiste, ma mission est d’aider les abeilles, papillons, oiseaux et autres fascinantes créatures (croyez-le, même les mouches!) dans leur lourde tâche de soutenir la biosphère par la pollinisation. En d’autres mots, les _bébittes_ (je préfère «insectes») travaillent fort pour que la bouffe puisse être sur notre table. À Moncton au Nouveau-Brunswick (Canada), j’ai fait la promotion de _Mai sans tonte_ (Pas de tondeuse en mai) à la suite de recommandations d’organismes nationaux. Cela m’a mené à développer une réelle passion pour nos plantes indigènes et nos pollinisateurs, puis j’en suis sorti avec un sentiment de curiosité renouvelé.
 
