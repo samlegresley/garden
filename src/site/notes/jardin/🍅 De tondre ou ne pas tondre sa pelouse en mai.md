@@ -24,7 +24,7 @@ Toutes les semaines de mai, je vais continuer à répondre à des questions qui 
 
 Jardiner pour la faune est un acte citoyen. Au mois de mai et au-delà, votons pour une nature en santé en connaissant ce qui pousse dans notre pré!
 
-#### Semaine 1
+## Semaine 1
 
 #### **_Q0:_** _Qu’est-ce que les voisins vont dire? Et qu’est ce qui va arriver à ma tondeuse?_
 
@@ -50,7 +50,7 @@ La **zone de rusticité** (connue par les jardiniers anglophones comme _frost ha
 
 ---
 
-#### Semaine 2
+## Semaine 2
 
 #### **_Q2:_** _Qu’est-ce qui se cache dans le sol où pousse ma pelouse?_
 
@@ -80,7 +80,7 @@ Elles profiteront du mois de mai pour émerger de leur nid afin de se reproduire
 
 ---
 
-#### Semaine 3
+## Semaine 3
 
 #### **_Q4:_** _À quoi servent les différentes sections de ma pelouse?_
 
@@ -98,7 +98,7 @@ Il ne faut pas oublier que les différentes sections de notre pelouse servent à
 
 ---
 
-#### Semaine 4
+## Semaine 4
 
 #### **_Q5:_** _Quelles plantes dois-je encourager dans ma pelouse?_
 
@@ -118,7 +118,7 @@ Vous y trouverez aussi les définitions d’une plante indigène par rapport à 
 
 ---
 
-#### Semaine 5
+## Semaine 5
 
 #### **_Q6:_** _Que puis-je faire pour la suite des choses?_
 
