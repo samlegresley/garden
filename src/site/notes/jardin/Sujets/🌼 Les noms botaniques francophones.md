@@ -4,7 +4,7 @@
 
 *Pourquoi on gagnerait à reconnaître des noms plus imagés dans la sphère francophone*
 
-![Pasted image 20250321093256.png](/img/user/Pasted%20image%2020250321093256.png)Hêtre à grandes feuilles _(Fagus grandifolia)_ “American Beech“
+![Pasted image 20250321093256.png](/img/user/Images/Pasted%20image%2020250321093256.png)Hêtre à grandes feuilles _(Fagus grandifolia)_ “American Beech“
 
 Le frère Marie-Victorin avait la lourde tâche de dénommer plus de 1500 plantes dans sa [_Flore laurentienne_](https://archives.umontreal.ca/exposition/mv/recolte_flore.htm) de 1935, toujours aujourd’hui la référence quant aux livres botaniques du Canada francophone.
 

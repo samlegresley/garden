@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","hide":true,"tags":["gardenEntry"]}
 ---
 
 Bienvenue au jardin.
 Issu d'une réflexion constante à propos du web francophone, je lance ce *jardin digital* au printemps 2025. Il vise à organiser ma pensée et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels et mes recherches, en tant que citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
-![sam.png|250](/img/user/sam.png)
+![sam.png|250](/img/user/Images/sam.png)
 Je suis Samuel LeGresley, j'aime jardiner (oui, avec des plantes) et j'aime bien penser en images et en mots. Je tends à maintenir plusieurs espaces sur le Web dans mon temps libre, en français (que je traduis aussi en anglais):
 
 - [L'Initiative Semences Sauvages](https://semencessauvages.org)
