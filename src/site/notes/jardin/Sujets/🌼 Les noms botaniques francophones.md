@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"plants/noms-botaniques-fr\"","permalink":"/plants/noms-botaniques-fr/","tags":["biodiversité","nature","plantes-indigènes","langue-française"]}
+{"dg-publish":true,"dg-path":"Sujets/🌼 Les noms botaniques francophones.md","permalink":"/sujets/les-noms-botaniques-francophones/","tags":["biodiversité","nature","plantes-indigènes","langue-française"]}
 ---
 
 *Pourquoi on gagnerait à reconnaître des noms plus imagés dans la sphère francophone*

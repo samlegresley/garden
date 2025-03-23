@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"\"plants/pelouse-mai\"","permalink":"/plants/pelouse-mai/","tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature"]}
+{"dg-publish":true,"dg-path":"Sujets/🍅 La pelouse du mois de mai et la biodiversité.md","permalink":"/sujets/la-pelouse-du-mois-de-mai-et-la-biodiversite/","tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature"]}
 ---
 
 *Cet article de blogue a été publié sur mon site amelan.ca en 2023. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*
