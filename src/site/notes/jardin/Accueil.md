@@ -24,4 +24,6 @@ Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé 
 ### [[jardin/Sujets/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
 ### [[jardin/Sujets/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
 
-*Revenez sur cette page pour connaître mes autres réflexions.*
+Mes autres réflexions, encore préliminaires, proviendront de mes intérêts divers.
+### [[jardin/Sujets/🌱 Le jardin digital\|🌱 Le jardin digital]]
+### [[jardin/Sujets/🌱 Le journal nature\|🌱 Le journal nature]]

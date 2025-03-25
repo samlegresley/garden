@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Sujets/🌼 Les noms botaniques francophones.md","permalink":"/sujets/les-noms-botaniques-francophones/","tags":["biodiversité","nature","plantes-indigènes","langue-française"]}
 ---
 
-*Pourquoi on gagnerait à reconnaître des noms plus imagés dans la sphère francophone*
+*Pourquoi on gagnerait à reconnaître des noms de plantes plus imagés dans la sphère francophone*
 
 ![Pasted image 20250321093256.png](/img/user/Images/Pasted%20image%2020250321093256.png)Hêtre à grandes feuilles _(Fagus grandifolia)_ “American Beech“
 
