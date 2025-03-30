@@ -17,6 +17,5 @@ J'ai finalement créé un livret avec du long papier tenu ensemble par des agraf
 Voici mes premiers jets, issus d'une promenade au parc en mars.
 
 ![](https://i.imgur.com/FTsD6sQ.jpeg)
-![](
 
 
