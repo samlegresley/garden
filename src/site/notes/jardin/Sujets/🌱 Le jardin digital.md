@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sujets/🌱 Le jardin digital.md","permalink":"/sujets/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information"]}
+{"dg-publish":true,"dg-path":"Sujets/🌱 Le jardin digital.md","permalink":"/sujets/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information","expression"]}
 ---
 
 ## Qu'est-ce qu'un jardin digital?

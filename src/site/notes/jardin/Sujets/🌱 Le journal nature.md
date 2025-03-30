@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sujets/🌱 Le journal nature.md","permalink":"/sujets/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie"]}
+{"dg-publish":true,"dg-path":"Sujets/🌱 Le journal nature.md","permalink":"/sujets/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"]}
 ---
 
 **Le journal nature** plane dans mon cerveau depuis que je l'ai découvert, il y a quelques années.
