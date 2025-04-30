@@ -17,7 +17,7 @@ Dans ces forêts, trois générations de minous m’ont accompagné partout. J�
 
 ![](https://images.squarespace-cdn.com/content/v1/64472228d3db854cf60d06ad/a9860dca-455c-40c1-bafd-f68cf7771321/_DSC0442.JPG)
 
-Granola _(Felis catus)_
+*Granola (Felis catus)*
 
 La maison comme tel fut un «fixer-upper», et pendant les rénos je m’en allais dans le lac aux îles à quelques centaines de mètres derrière. Tant de souvenirs!
 
@@ -59,9 +59,7 @@ Ah, et pour nous autres amateurs de chats, quelques-uns de nos plus rares oiseau
 
 ![](https://images.squarespace-cdn.com/content/v1/64472228d3db854cf60d06ad/d4373b39-f3c2-426f-9216-1d9ad0af9a78/denis_doucet_paruline_canada.jpg)
 
-Paruline du Canada _(Cardellina canadensis)_
-
-Photo : Denis Doucet
+*Paruline du Canada (Cardellina canadensis)* Photo : Denis Doucet
 
 _Cet oiseau, considéré comme vulnérable par le gouvernement canadien (_[_Loi sur les espèces en péril_](https://www.canada.ca/fr/environnement-changement-climatique/services/registre-public-especes-peril/programmes-retablissement/paruline-2016.html)_), passe son hiver en Amérique du Sud mais monte au Canada pour se reproduire l’été. Sa saison de nidification est du début juin à la mi-août, et il fait son nid au sol ce qui le rend vulnérable à toutes sortes de prédateurs. Sa population au Canada a décliné d’environ 80 % depuis les années 1980._
 
