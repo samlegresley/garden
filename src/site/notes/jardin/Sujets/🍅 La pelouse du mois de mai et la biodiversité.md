@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Sujets/🍅 La pelouse du mois de mai et la biodiversité.md","permalink":"/sujets/la-pelouse-du-mois-de-mai-et-la-biodiversite/","tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature"]}
 ---
 
-*Cet article de blogue a été publié sur mon site amelan.ca en 2023. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*
+*Cet article de blogue a été publié sur mon site amelan.ca en 2023, puis modifié en 2025. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*
 
 «Pas de tondeuse en mai, c’est bon pour les abeilles parce que ça donne une source de pollen précoce aux pollinisateurs.» Depuis quelques années, on entend ici en Amérique du Nord ce discours qui tire son origine du Royaume-Uni. Il peut être vrai pour certaines régions de notre propre continent, mais même dans ce cas il faut être correctement outillé pour en parler de la bonne façon.
 
@@ -96,6 +96,8 @@ Il ne faut pas oublier que les différentes sections de notre pelouse servent à
 
 	- _Cette plante, indigène à l’Europe mais aussi à l’Amérique du Nord, est très reconnaissable par ses feuilles ressemblant presque à des micro-fougères. Plus tard dans l’été, elle produit des fleurs blanches en ombelles qui attirent plusieurs espèces de pollinisateurs dont des papillons et des abeilles._
 
+Ce n’est pas tout. Parfois on peut faire de surprenantes découvertes! Allez dans la section « [Ressources](https://semencessauvages.org/ressources/) » de Semences Sauvages pour des sites web externes destinés au public qui cherche à s’informer sur les plantes indigènes et les pollinisateurs.
+
 ---
 
 ## Semaine 4
@@ -149,8 +151,13 @@ Voici quelques suggestions si vous trouvez des plantes en pépinière :
 
 	- _Les sous-bois de Cape Split, parc provincial de la Nouvelle-Écosse, sont recouverts de cette belle éphémère ce temps-ci de l’année. Les trilles rouges, les fougères et les claytonies se retrouvent partout en tapis ici, illustrant bien le concept des communautés de plantes._
 
+
+Et si vous voulez sauver de l’argent à plus long-terme, participez dans votre grainothèque locale! [**Visitez cette page pour un guide publié à l’avenir**](https://semencessauvages.org/partager-notre-nature/guide/) portant sur les grainothèques de fleurs sauvages.
+
 ---
 
 C’est tout pour les questions! Restez curieux et prenez le temps d'observer et d'aller dehors. Voici d'autres ressources intéressantes :
-- Bee City Canada - _[Le Défi Pissenlits : Une perspective Bee City Canada](https://beecitycanada.org/fr/no-mow-may-a-bee-city-canada-perspective/)_
-- Gail Langellotto (en anglais) - _[The Controversy Surrounding ‘No Mow May’](https://blogs.oregonstate.edu/gardenecologylab/2023/09/20/the-controversy-surrounding-no-mow-may/)_
+
+- Bee City Canada - [_Le Défi Pissenlits : Une perspective Bee City Canada_](https://beecitycanada.org/fr/no-mow-may-a-bee-city-canada-perspective/)
+    
+- Gail Langellotto (en anglais) - [_The Controversy Surrounding ‘No Mow May’_](https://blogs.oregonstate.edu/gardenecologylab/2023/09/20/the-controversy-surrounding-no-mow-may/)
