@@ -21,7 +21,7 @@ Tout ça me mène à vouloir faire un état des lieux sur ce qui est déjà là,
 ## Trois niveaux des *plants*
 Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux seront : le bourgeon 🌱, la fleur 🌼 et le fruit 🍅.
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
-## Premiers *plan(t)s*
+## Premiers *plants*
 Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
 ### [[jardin/Sujets/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
 ### [[jardin/Sujets/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
