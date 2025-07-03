@@ -31,5 +31,3 @@ Grâce à mon indépendance nouvellement-découverte des magasins d'art (Je vous
 ![](https://i.imgur.com/UQTprDT.jpeg)
 
 ![](https://i.imgur.com/mmuQd5f.jpeg)
-
-## Art ou non?
