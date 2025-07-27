@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Plants/🌱 Le journal nature.md","permalink":"/plants/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"]}
 ---
 
-**Le journal nature** plane dans mon cerveau depuis que je l'ai découvert, il y a quelques années.
+**Le journal nature**, l'une des composantes de l'[[jardin/Plants/Les arts de terrain\|art de terrain]], plane dans mon cerveau depuis que je l'ai découvert, il y a quelques années.
 C'est probablement dû au fait que je peux, en théorie, revenir sur mes randonnées à n'importe quel temps donné. Le sens d'être entre les arbres et de pouvoir respirer la saison nous rend tous·tes heureux, qu'on le sache ou non. Mais pouvoir le noter, et le documenter, rend l'expérience plus apte à être revisitée.
 
 Tout ça est probablement dû à, et amplifié par la *métacognition*, phénomène largement documenté dans le domaine du journal nature.
@@ -31,3 +31,4 @@ Grâce à mon indépendance nouvellement-découverte des magasins d'art (Je vous
 ![](https://i.imgur.com/UQTprDT.jpeg)
 
 ![](https://i.imgur.com/mmuQd5f.jpeg)
+
