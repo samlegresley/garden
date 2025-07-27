@@ -9,5 +9,5 @@ Ceux-ci incluent «l'écriture dans les carnets de terrain, la cartographie, le 
 Étant artiste multidisciplinaire, ma pratique artistique est inspirée par le lieu où je me trouve, ainsi que les organismes qui y habitent. Je trouve cette pratique très intéressante par sa variété et sa portée, pouvant intéresser celles et ceux qui désirent une plus grande connexion au monde extérieur.
 ## Les différentes implications de ce concept
 
-En tant que domaine, les arts de terrain se rapprochent beaucoup d'une matière qui rassemble tous mes intérêts en termes d'observation de la nature, car il a trait à l'exploration et la curiosité. Pensons à la tenue d'un [[jardin/Plants/🌱 Le journal nature\|journal nature]], ou l'écriture in-situ, deux façons d'apprécier la nature pour soit développer sa pleine conscience ou encore son sens de l'observation.
+En tant que domaine, les arts de terrain se rapprochent beaucoup d'une matière qui rassemble tous mes intérêts en termes d'observation de la nature, car il a trait à l'exploration et la curiosité. Pensons à la tenue d'un [[jardin/Plants/🌼 Le journal nature\|journal nature]], ou l'écriture in-situ, deux façons d'apprécier la nature pour soit développer sa pleine conscience ou encore son sens de l'observation.
 

@@ -28,5 +28,5 @@ Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé 
 
 Mes autres réflexions, encore préliminaires, proviendront de mes intérêts divers.
 ### [[jardin/Plants/🌱 Le jardin digital\|🌱 Le jardin digital]]
-### [[jardin/Plants/🌱 Le journal nature\|🌱 Le journal nature]]
+### [[jardin/Plants/🌼 Le journal nature\|🌼 Le journal nature]]
 ### [[jardin/Plants/🌱 Les cartes d'art à échanger (Artist Trading Cards)\|🌱 Les cartes d'art à échanger (Artist Trading Cards)]]

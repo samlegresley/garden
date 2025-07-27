@@ -9,4 +9,4 @@ C'est une approche moins "officielle", plus expérimentale, que le blogue. On ap
 
 Mon jardin digital, que vous lisez maintenant, a été lancé le 20 mars 2025 à l'aide d'[Obsidian](https://obsidian.md/) et de l'extension [Digital Garden](https://dg-docs.ole.dev/). Mais il est tout à fait possible de le créer avec d'autres outils, qu'ils soient faits pour codeurs ou non-codeurs.
 ## Une alternative digitale au journal nature
-Pour combattre la surdose d'information, j'ai opté pour le [[jardin/Plants/🌱 Le journal nature\|journal nature]] il y a quelques années. Mais que faire quand tout est gris, pluvieux ou enneigé? C'est là où j'ai découvert le concept de jardin digital, qui me permet de lire et d'écrire sur des sujets qui m'intéressent.
+Pour combattre la surdose d'information, j'ai opté pour le [[jardin/Plants/🌼 Le journal nature\|journal nature]] il y a quelques années. Mais que faire quand tout est gris, pluvieux ou enneigé? C'est là où j'ai découvert le concept de jardin digital, qui me permet de lire et d'écrire sur des sujets qui m'intéressent.
