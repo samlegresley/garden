@@ -19,7 +19,7 @@ La méta-cognition y occupe une place d'honneur, ainsi que les façons de donner
 Au-delà de tout ça, j'ai décidé de participer au mouvement et de créer mes propres initiatives de journal nature.
 ## [Hémiboréal - Club de journal nature des Maritimes](https://hemiboreal.com)
 ## Mes propres journaux
-J'ai commencé à relier mes propres journaux, grâce à une technique de [reliure "à la copte"](https://en.wikipedia.org/wiki/Coptic_binding).
+J'ai commencé à relier mes propres journaux, grâce à une [[jardin/Plants/🌱 La reliure et le journal-accordéon\|technique de reliure]].
 
 Grâce à mon indépendance nouvellement-découverte des magasins d'art (Je vous aime toujours, je n'ai rien à plaindre, c'est juste que 40 $ pour un seul cahier, ça monte vite), je trouve une nouvelle façon de créer et m'exprimer.
 
