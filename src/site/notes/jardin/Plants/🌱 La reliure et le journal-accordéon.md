@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Plants/🌱 La reliure et le journal-accordéon.md","permalink":"/plants/la-reliure-et-le-journal-accordeon/","tags":["pensée-visuelle","chronique-de-vie","métacognition"]}
 ---
 
-Après avoir créé mes premiers [journaux nature](plants/🌱 Le journal nature), j'ai commencé à expérimenter avec la reliure coptique.
+Après avoir créé mes premiers [[jardin/Plants/🌼 Le journal nature\|journaux nature]], j'ai commencé à expérimenter avec la reliure coptique.
 
 ![](https://i.imgur.com/pWEF9Wh.jpeg)
 
