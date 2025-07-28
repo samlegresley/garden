@@ -4,7 +4,7 @@
 
 Approche que j'ai récemment découverte, les **arts de terrain** sont définis par la création artistique inspirée d'un lieu, au plus souvent extérieur.
 
-Ceux-ci incluent «l'écriture dans les carnets de terrain, la cartographie, le croquis extérieur, l'aquarelle plein air et le journal nature » selon [Roseann Hanson](https://www.exploringoverland.com/fieldarts), qui pratique cette discipline depuis plusieurs dizaines d'années. J'y ajouterais la poésie in-situ, les enregistrements de terrain et le film documentaire.
+Ceux-ci incluent «l'écriture dans les carnets de terrain, la cartographie, le croquis extérieur, l'aquarelle plein air et le journal nature » selon [Roseann Hanson](https://www.exploringoverland.com/fieldarts), qui pratique cette discipline depuis plusieurs dizaines d'années. Elle souligne que les arts de terrain utilisent des « Outils primitifs », comme des crayons et du papier, au lieu des caméras ou des magnétophones.
 
 Étant artiste multidisciplinaire, ma pratique artistique est inspirée par le lieu où je me trouve, ainsi que les organismes qui y habitent. Je trouve cette pratique très intéressante par sa variété et sa portée, pouvant intéresser celles et ceux qui désirent une plus grande connexion au monde extérieur.
 ## Les différentes implications de ce concept
