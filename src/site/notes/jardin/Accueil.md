@@ -3,7 +3,7 @@
 ---
 
 Bienvenue au jardin.
-Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Plants/🌱 Le jardin digital\|jardin digital]] au printemps 2025.
+Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Plants/Médiums d'art/🌱 Le jardin digital\|jardin digital]] au printemps 2025.
 Il vise à organiser ma pensée, à explorer mon processus créatif et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels, mes passe-temps et mes recherches, en tant qu'artiste visuel, et citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
@@ -23,10 +23,10 @@ Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plants*
 Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
-### [[jardin/Plants/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
+### [[jardin/Plants/Essais/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
 ### [[jardin/Plants/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
 
 Mes autres réflexions, encore préliminaires, proviendront de mes intérêts divers.
-### [[jardin/Plants/🌱 Le jardin digital\|🌱 Le jardin digital]]
-### [[jardin/Plants/🌼 Le journal nature\|🌼 Le journal nature]]
-### [[jardin/Plants/🌱 Les cartes d'art à échanger (Artist Trading Cards)\|🌱 Les cartes d'art à échanger (Artist Trading Cards)]]
+### [[jardin/Plants/Médiums d'art/🌱 Le jardin digital\|🌱 Le jardin digital]]
+### [[jardin/Plants/Médiums d'art/🌼 Le journal nature\|🌼 Le journal nature]]
+### [[jardin/Plants/Médiums d'art/🌱 Les cartes d'art à échanger (Artist Trading Cards)\|🌱 Les cartes d'art à échanger (Artist Trading Cards)]]
