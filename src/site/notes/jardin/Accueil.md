@@ -22,11 +22,10 @@ Tout ça me mène à vouloir faire un état des lieux sur ce qui est déjà là,
 Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux seront : le bourgeon 🌱, la fleur 🌼 et le fruit 🍅.
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plants*
-Cela dit, je vous lance mes premières réflexions, issues de mon blogue lancé en 2023, *amelan.ca*: 
-### [[jardin/Plants/Essais/🍅 La pelouse du mois de mai et la biodiversité\|🍅 La pelouse du mois de mai et la biodiversité]]
-### [[jardin/Plants/🌼 Les noms botaniques francophones\|🌼 Les noms botaniques francophones]]
-
-Mes autres réflexions, encore préliminaires, proviendront de mes intérêts divers.
-### [[jardin/Plants/Médiums d'art/🌱 Le jardin digital\|🌱 Le jardin digital]]
-### [[jardin/Plants/Médiums d'art/🌼 Le journal nature\|🌼 Le journal nature]]
-### [[jardin/Plants/Médiums d'art/🌱 Les cartes d'art à échanger (Artist Trading Cards)\|🌱 Les cartes d'art à échanger (Artist Trading Cards)]]
+Trois différentes sections sont ici :
+1. Cure à l'amnésie
+	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept d'amnésie écologique pour démontrer le grand problème de l'écologie.
+2. Essais
+	- Mes écrits, souvent inquisitoires, sur la nature et autres sujets.
+3. Médiums d'art
+	- Mes différentes façons de m'exprimer.
