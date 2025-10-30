@@ -6,7 +6,7 @@ Il ne faut pas oublier le passé.
 
 L'étude de l'histoire environnementale nous fait reconnaitre l'existence du «changement des bases de référence» (*shifting baselines*).
 
-Quand on donne vie à la nouvelle génération, on oublie souvent que ces gens n'auront pas de référent passés, à moins qu'on ne leur montre.
+Quand on fait place à la nouvelle génération, on oublie souvent que ces gens n'auront pas de référent passés, à moins qu'on ne leur montre.
 
 Les animaux en déclin, les arbres devenant plus petits, tout ça devient normal pour la prochaine génération.
 

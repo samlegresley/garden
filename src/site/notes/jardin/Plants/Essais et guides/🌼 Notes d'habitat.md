@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Plants/Essais et guides/🌼 Notes d'habitat.md","permalink":"/plants/essais-et-guides/notes-d-habitat/"}
 ---
 
-
+	
 Un projet que j'ai en tête récemment est de créer un zine pour attirer la faune avec la flore. Voici son contenu en gros. Utilisez ces informations pour attirer de nouveaux amis, avec le pouvoir de votre cour. Parce qu'elle fait partie de la nature!
 
 
