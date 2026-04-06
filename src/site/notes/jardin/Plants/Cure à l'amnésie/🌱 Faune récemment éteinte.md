@@ -15,4 +15,4 @@ Il est bon de se rappeler que 200 ans passés, ces animaux étaient encore là.
 
 Et plusieurs d'autres pourraient bien rejoindre leurs rangs si on n'arrête pas de détruire leur habitat.
 
-Il est bon de se rappeler. Ceci n'est peut-être pas une cure à l'optimisme, mais une cure à l'amnésie.
+Il est bon de se rappeler. Ceci n'est peut-être pas une cure au pessimisme, mais une cure à l'amnésie.
