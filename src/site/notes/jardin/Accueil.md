@@ -11,6 +11,7 @@ Les sujets incluront mes intérêts personnels, mes passe-temps et mes recherche
 Je suis [Samuel LeGresley](https://samlegresley.com), j'aime jardiner (oui, avec des plantes) et j'aime bien penser en images et en mots. 
 Je suis curateur de la guilde nature Hémiboréal, une initiative bilingue de journal nature et de jardinage pour la faune, pour la zone de transition dans laquelle je vis.
 - [La guilde nature Hémiboréal](https://hemiboreal.com/fr/)
+
 Parfois, j'aime aussi créer en anglais:
 - [Mon journal multimédia : birdtree.land](https://birdtree.land)
 
