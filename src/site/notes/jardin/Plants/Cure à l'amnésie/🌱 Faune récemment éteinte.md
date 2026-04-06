@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌱 Faune récemment éteinte.md","permalink":"/plants/cure-a-l-amnesie/faune-recemment-eteinte/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌱 Faune récemment éteinte.md","permalink":"/plants/cure-a-l-amnesie/faune-recemment-eteinte/","noteIcon":"default","dg-note-properties":{}}
 ---
 
 J'ai une fascination avec les animaux, surtout de ma région, récemment éteints. 

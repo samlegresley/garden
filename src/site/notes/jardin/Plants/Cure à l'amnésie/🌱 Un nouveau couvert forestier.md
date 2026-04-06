@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌱 Un nouveau couvert forestier.md","permalink":"/plants/cure-a-l-amnesie/un-nouveau-couvert-forestier/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌱 Un nouveau couvert forestier.md","permalink":"/plants/cure-a-l-amnesie/un-nouveau-couvert-forestier/","noteIcon":"default","dg-note-properties":{}}
 ---
 
 

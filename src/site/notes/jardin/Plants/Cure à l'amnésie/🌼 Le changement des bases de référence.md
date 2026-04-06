@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌼 Le changement des bases de référence.md","permalink":"/plants/cure-a-l-amnesie/le-changement-des-bases-de-reference/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Cure à l'amnésie/🌼 Le changement des bases de référence.md","permalink":"/plants/cure-a-l-amnesie/le-changement-des-bases-de-reference/","noteIcon":"default","dg-note-properties":{}}
 ---
 
 Il ne faut pas oublier le passé. 

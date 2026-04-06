@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Essais et guides/🌼 Notes d'habitat.md","permalink":"/plants/essais-et-guides/notes-d-habitat/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Essais et guides/🌼 Notes d'habitat.md","permalink":"/plants/essais-et-guides/notes-d-habitat/","noteIcon":"default","dg-note-properties":{}}
 ---
 
 	

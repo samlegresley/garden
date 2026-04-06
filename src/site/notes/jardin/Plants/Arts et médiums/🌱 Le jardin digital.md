@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 Le jardin digital.md","permalink":"/plants/arts-et-mediums/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information","expression"],"dg-note-properties":{"tags":["métacognition","chronique-de-vie","information","expression"]}}
+{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 Le jardin digital.md","permalink":"/plants/arts-et-mediums/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information","expression"],"noteIcon":"default","dg-note-properties":{"tags":["métacognition","chronique-de-vie","information","expression"]}}
 ---
 
 ## Qu'est-ce qu'un jardin digital?
