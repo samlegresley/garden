@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","title":"Accueil - Jardin digital","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","title":"Accueil - Jardin digital","hide":true,"tags":["gardenEntry"],"dg-note-properties":{"title":"Accueil - Jardin digital"}}
 ---
 
 Bienvenue au jardin.
@@ -7,12 +7,10 @@ Issu d'une réflexion constante à propos du web francophone, je lance ce [[jard
 Il vise à organiser ma pensée, à explorer mon processus créatif et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels, mes passe-temps et mes recherches, en tant qu'artiste visuel, et citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
-![sam.png|250](/img/user/Images/sam.png)
-Je suis [Samuel LeGresley](https://samlegresley.com), j'aime jardiner (oui, avec des plantes) et j'aime bien penser en images et en mots. Je tends à maintenir plusieurs espaces sur le Web dans mon temps libre, en français (que je traduis aussi en anglais):
-
-- [L'Initiative Semences Sauvages](https://semencessauvages.org)
-	- Le blogue [Partager notre nature](https://nature.semencessauvages.org/)
-- [Le club de journal nature des Maritimes, Hémiboréal](https://hemiboreal.com/fr/)
+![sam.png\|250](/img/user/Images/sam.png)
+Je suis [Samuel LeGresley](https://samlegresley.com), j'aime jardiner (oui, avec des plantes) et j'aime bien penser en images et en mots. 
+Je suis curateur de la guilde nature Hémiboréal, une initiative bilingue de journal nature et de jardinage pour la faune, pour la zone de transition dans laquelle je vis.
+- [La guilde nature Hémiboréal](https://hemiboreal.com/fr/)
 Parfois, j'aime aussi créer en anglais:
 - [Mon journal multimédia : birdtree.land](https://birdtree.land)
 

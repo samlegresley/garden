@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 La reliure et le journal-accordéon.md","permalink":"/plants/arts-et-mediums/la-reliure-et-le-journal-accordeon/","tags":["pensée-visuelle","chronique-de-vie","métacognition"]}
+{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 La reliure et le journal-accordéon.md","permalink":"/plants/arts-et-mediums/la-reliure-et-le-journal-accordeon/","tags":["pensée-visuelle","chronique-de-vie","métacognition"],"dg-note-properties":{"tags":["pensée-visuelle","chronique-de-vie","métacognition"]}}
 ---
 
 Après avoir créé mes premiers [[jardin/Plants/Arts et médiums/🌼 Le journal nature\|journaux nature]], j'ai commencé à expérimenter avec la reliure coptique pour créer des carnets de notes.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 Les cartes d'art à échanger (Artist Trading Cards).md","permalink":"/plants/arts-et-mediums/les-cartes-d-art-a-echanger-artist-trading-cards/","tags":["pensée-visuelle","dessin","expression"]}
+{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌱 Les cartes d'art à échanger (Artist Trading Cards).md","permalink":"/plants/arts-et-mediums/les-cartes-d-art-a-echanger-artist-trading-cards/","tags":["pensée-visuelle","dessin","expression"],"dg-note-properties":{"tags":["pensée-visuelle","dessin","expression"]}}
 ---
 
 Je m'étais toujours occupé à créer de trop grands dessins dans ma pratique artistique. La taille standard du papier étant 8.5 par 11 pouces, c'est trop facile de tomber dans le piège de commencer un dessin soit qui dure des heures à terminer, ou qui doit être terminé à l'arrache par manque de temps. Le concept des *landscapitos* (paysages miniatures, restreints à une portion de la page) ponctuait déjà mon [[jardin/Plants/Arts et médiums/🌼 Le journal nature\|journal nature]], grâce aux conseils de [John Muir Laws](https://johnmuirlaws.com), mais la découverte d'un nouveau passe-temps a rendu la création et le processus des « micro-dessins » encore plus intéressant.

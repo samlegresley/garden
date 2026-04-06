@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌼 Le journal nature.md","permalink":"/plants/arts-et-mediums/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"]}
+{"dg-publish":true,"dg-path":"Plants/Arts et médiums/🌼 Le journal nature.md","permalink":"/plants/arts-et-mediums/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"],"dg-note-properties":{"tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"]}}
 ---
 
 **Le journal nature**, l'une des composantes de l'[[jardin/Plants/Arts et médiums/🌱 Les arts de terrain\|art de terrain]], plane dans mon cerveau depuis que je l'ai découvert, il y a quelques années.
