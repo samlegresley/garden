@@ -4,7 +4,7 @@
 
 Il ne faut pas oublier le passé. 
 
-L'étude de l'histoire environnementale nous fait reconnaitre l'existence du «changement des bases de référence» (*shifting baselines*).
+En français, on parle souvent d'amnésie écologique, mais l'étude de l'histoire environnementale nous fait reconnaitre l'existence du «changement des bases de référence» (*shifting baselines*).
 
 Quand on fait place à la nouvelle génération, on oublie souvent que ces gens n'auront pas de référent passés, à moins qu'on ne leur montre.
 
