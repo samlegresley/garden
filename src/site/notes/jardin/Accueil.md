@@ -3,7 +3,7 @@
 ---
 
 Bienvenue au jardin.
-Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Plants/Arts et médiums/🌱 Le jardin digital\|jardin digital]] au printemps 2025.
+Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] au printemps 2025.
 Il vise à organiser ma pensée, à explorer mon processus créatif et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels, mes passe-temps et mes recherches, en tant qu'artiste visuel, et citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
