@@ -28,3 +28,5 @@ Trois différentes sections sont ici :
 	- Mes écrits, souvent inquisitoires, sur la nature et autres sujets.
 3. Médiums d'art
 	- Mes différentes façons de m'exprimer.
+
+Consultez la barre de navigation à gauche pour commencer.
