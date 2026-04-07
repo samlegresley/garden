@@ -8,7 +8,7 @@ C'est probablement dû au fait que je peux, en théorie, revenir sur mes randonn
 Tout ça est probablement dû à, et amplifié par la *métacognition*, phénomène largement documenté dans le domaine du journal nature.
 
 >[!quote] Lorsque vous regardez une page de votre journal, vous vous voyez en train de réfléchir, ligne par ligne, trait par trait, avec une image, un diagramme, des mots, des choses que vous comptez, des choses que vous mesurez. 
-*-[John Muir Laws](https://www.1000hoursoutside.com/blog/youre-not-stuck-with-the-brain-you-were-born-with-john-muir-laws-talks-nature-journaling-dyslexia-growth-mindset-ukulele-and-so-much-more)* (traduction libre)
+*[John Muir Laws](https://www.1000hoursoutside.com/blog/youre-not-stuck-with-the-brain-you-were-born-with-john-muir-laws-talks-nature-journaling-dyslexia-growth-mindset-ukulele-and-so-much-more)* (traduction libre)
 
 C'est rapidement devenu pour moi un moyen de *penser à ce que je pense*, surtout l'été. L'hiver, les mois long sans grande variété m'ont ensuite poussé à créer un [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] et un [[jardin/Plants/Arts et médiums/Le site web personnel\|site personnel]] au lieu d'un journal nature pendant ces mois. 
 
