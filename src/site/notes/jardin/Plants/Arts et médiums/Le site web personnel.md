@@ -9,7 +9,7 @@ Différent du [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital
 Nommé le Web Revival en anglais ([cliquez ici pour une définition](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)), il s'agit de "trouver ce qu'il y avait de meilleur du web précoce, ce qu'il y a de meilleur des nouvelles technologies, et de fusionner les deux dans un modèle pour demain".
 
 > Le « Web Revival » vise à insuffler un esprit de mystère, d'humour, d'humilité et d'optimisme dans le domaine technologique. Le « Web Revival » privilégie avant tout l'action ; nous évitons le perfectionnisme, car il freine l'action. Le « Web Revival » encouragera la création et le partage, même s'il s'agit de petites choses, imparfaites, incomplètes ou accompagnées de la mention « En construction » 
-> 	[*Melonking*](melonking.net)
+> 	[*Melonking*](https://melonking.net)
 
 # Créer un site du début
 
