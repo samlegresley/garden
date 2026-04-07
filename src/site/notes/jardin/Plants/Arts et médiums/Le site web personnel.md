@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Arts et médiums/Le site web personnel.md","permalink":"/plants/arts-et-mediums/le-site-web-personnel/","noteIcon":"1","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Arts et médiums/Le site web personnel.md","permalink":"/plants/arts-et-mediums/le-site-web-personnel/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Différent du [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] par son style "Web 1.0", le site personnel a toujours fait partie d'Internet depuis sa création, comme en témoignent les nombreux sites qui existent encore aux marges du web.
