@@ -12,7 +12,7 @@ Je suis [Samuel LeGresley](https://samlegresley.com), j'aime jardiner (oui, avec
 Je suis curateur de la guilde nature Hémiboréal, une initiative bilingue de journal nature et de jardinage pour la faune, pour la zone de transition dans laquelle je vis.
 - [La guilde nature Hémiboréal](https://hemiboreal.com/fr/)
 
-Parfois, j'aime aussi créer en anglais:
+Parfois, j'aime aussi mettre à jour mon [[jardin/Plants/Arts et médiums/Le site web personnel\|site web personnel]] en anglais:
 - [Mon journal multimédia : birdtree.land](https://birdtree.land)
 
 En créant ces sites et en naviguant le web, je remarque un assez grand désavantage à publier en français. Il est difficile de justifier une présence francophone face à l'anglais, qui prend une place démesurée, surtout en Amérique du Nord. Les ressources botaniques que je trouve sont très rarement traduites, encore moins y-a-t-il de produits créés par des auteurs francophones.
