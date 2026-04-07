@@ -10,7 +10,12 @@ Tout ça est probablement dû à, et amplifié par la *métacognition*, phénom�
 >[!quote] Lorsque vous regardez une page de votre journal, vous vous voyez en train de réfléchir, ligne par ligne, trait par trait, avec une image, un diagramme, des mots, des choses que vous comptez, des choses que vous mesurez. 
 *-[John Muir Laws](https://www.1000hoursoutside.com/blog/youre-not-stuck-with-the-brain-you-were-born-with-john-muir-laws-talks-nature-journaling-dyslexia-growth-mindset-ukulele-and-so-much-more)* (traduction libre)
 
-C'est rapidement devenu pour moi un moyen de *penser à ce que je pense*, surtout l'été. L'hiver, les mois long sans grande variété m'ont ensuite poussé à créer un [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] et un journal-BD (page à venir) au lieu d'un journal nature.
+C'est rapidement devenu pour moi un moyen de *penser à ce que je pense*, surtout l'été. L'hiver, les mois long sans grande variété m'ont ensuite poussé à créer un [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] et un [[jardin/Plants/Arts et médiums/Le site web personnel\|site personnel]] au lieu d'un journal nature pendant ces mois. 
+
+Mais je veux améliorer mes compétences d'identification en hiver aussi, donc je vais continuer à sortir même en hiver dans les années qui suivront.
+
+* [La manière «Quatre temps» de suivre le rythme de la nature](https://hemiboreal.com/fr/quatre-temps/)
+* [Journal nature - Hémiboréal](https://hemiboreal.com/fr/journal-nature/)
 ## Mon parcours d'éducateur
 J'ai commencé à suivre une formation avec la Fondation *Wild Wonder* il y a un an, et c'est rempli d'informations.
 
