@@ -8,7 +8,7 @@ En somme, c'est mettre de côté la chronologie tellement typique des "streams" 
 C'est une approche moins "officielle", plus expérimentale, que le blogue. On apprend en public et on crée une _topographie_ de sa pensée.
 
 >[!quote]Un « jardin » est un ensemble d’idées en constante évolution qui ne sont pas strictement classées par date de publication. De nature exploratoire, les notes sont reliées entre elles par des associations contextuelles. Elles ne sont ni abouties ni exhaustives : les notes sont publiées sous forme de réflexions inachevées, destinées à mûrir et à évoluer avec le temps.
->[Maggie Appleton](https://maggieappleton.com/garden-history)
+>[Maggie Appleton](https://maggieappleton.com/garden-history) (traduction libre)
 
 Mon jardin digital, que vous lisez maintenant, a été lancé le 20 mars 2025 à l'aide d'[Obsidian](https://obsidian.md/) et de l'extension [Digital Garden](https://dg-docs.ole.dev/). Mais il est tout à fait possible de le créer avec d'autres outils, qu'ils soient faits pour codeurs ou non-codeurs.
 ## Une alternative digitale au journal nature
