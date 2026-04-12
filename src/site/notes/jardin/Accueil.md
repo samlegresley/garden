@@ -22,11 +22,11 @@ Ceci étant un jardin, j'appellerai chaque page un *plant*, et les trois niveaux
 Ceci indique le temps que j'ai passé à rechercher et à penser chaque article. Il démontre la facette expérimentale de ce jardin numérique. 
 ## Premiers *plants*
 Trois différentes sections sont ici :
-1. Cure à l'amnésie
-	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept d'amnésie écologique pour démontrer le grand problème de l'écologie.
-2. Essais
-	- Mes écrits, souvent inquisitoires, sur la nature et autres sujets.
-3. Médiums d'art
+1. Arts et médiums
 	- Mes différentes façons de m'exprimer.
+2. Bases de références
+	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept d'amnésie écologique pour démontrer le grand problème de l'écologie.
+3. Essais
+	- Mes écrits, souvent inquisitoires, sur la nature et autres sujets.
 
 Consultez la barre de navigation à gauche pour commencer.
