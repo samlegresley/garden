@@ -12,7 +12,7 @@ On parle d'arbres d'un grand âge, oui, qu'on ne reverra pas de notre vivant.
 
 Autant de géants qui sont méconnus, non seulement par le manque de vécu de leurs descendants, mais par le manque de descendants tout court.
 
-Imaginez des forêts d'érables ancestraux, de bouleaux jaunes à l'écorce rugueuse, d'autres de [[jardin/Plants/Cure à l'amnésie/Base de référence — La pruche\|pruches géants]] et de hêtres majestueux. 
+Imaginez des forêts d'érables ancestraux, de bouleaux jaunes à l'écorce rugueuse, d'autres de [[jardin/Plants/Cure à l'amnésie/Bases de référence/Tsuga canadensis\|pruches géants]] et de hêtres majestueux. 
 
 ![](https://i.imgur.com/7KqFFCQ.jpeg)
 

@@ -11,8 +11,8 @@ Du moins, j'avais appris l'existence de ce phénomène, mais je ne pouvais pas l
 J'ai donc dédié cette section à mon ressenti par rapport à mes espèces préférées.
 
 Liste courante 
-- [[jardin/Plants/Cure à l'amnésie/Base de référence — La pruche\|Base de référence — La pruche]]
-- [[jardin/Plants/Cure à l'amnésie/Base de référence — Faune récemment éteinte\|Base de référence — Faune récemment éteinte]]
+- [[jardin/Plants/Cure à l'amnésie/Bases de référence/Tsuga canadensis\|Tsuga canadensis]]
+- [[jardin/Plants/Cure à l'amnésie/Bases de référence/Fagus grandifolia\|Fagus grandifolia]]
 
 Même si on a toutes les données scientifiques pour établir la base de référence d'aujourd'hui, sans la documentation fournie par la création documentaire ou créative, on aura quand même perdu le *ressenti* de nos promenades dans la nature d'aujourd'hui, aussi fragmentée qu'elle soit. 
 
