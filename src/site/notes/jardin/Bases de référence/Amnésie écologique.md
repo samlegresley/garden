@@ -10,7 +10,7 @@ Du moins, j'avais appris l'existence de ce phénomène, mais je ne pouvais pas l
 
 J'ai donc dédié cette section à mon ressenti par rapport à mes espèces préférées.
 
-Liste courante de référents
+Liste actuelle de référents
 - [[jardin/Bases de référence/Référents/Tsuga canadensis\|Tsuga canadensis]]
 - [[jardin/Bases de référence/Référents/Fagus grandifolia\|Fagus grandifolia]]
 - [[jardin/Bases de référence/Référents/Acer saccharum\|Acer saccharum]]
