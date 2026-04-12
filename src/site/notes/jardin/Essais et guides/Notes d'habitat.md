@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Essais et guides/Notes d'habitat.md","permalink":"/essais-et-guides/notes-d-habitat/","tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"],"noteIcon":"2","dg-note-properties":{"tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"]}}
 ---
 
-	
 Un projet que j'ai en tête récemment est de créer un zine pour attirer la faune avec la flore. Voici son contenu en gros. Utilisez ces informations pour attirer de nouveaux amis, avec le pouvoir de votre cour. Parce qu'elle fait partie de la nature!
 
 
@@ -19,7 +18,7 @@ Un projet que j'ai en tête récemment est de créer un zine pour attirer la fau
 2. **Toute l'année**
 	* Faire un plan de sa cour sur une feuille.  
 	* Parler à ses voisins de ce que qu'on fait.
-	* Aller en nature pour de l'inspiration.
+	* Aller en nature pour de l'inspiration, [[jardin/Arts et médiums/Le journal nature\|tenir un journal]].
 
 4. **Avril à juin - Priorités printanières**  
 	- Documenter la fonte des neiges, le sol exposé et les nouveaux visiteurs à son espace. Les plantes de l’an dernier qui donnent place à celles qui ressortent.  
