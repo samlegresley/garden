@@ -24,8 +24,8 @@ Ceci indique le temps que j'ai passé à rechercher et à penser chaque article.
 Trois différentes sections sont ici :
 1. Arts et médiums
 	- Mes différentes façons de m'exprimer.
-2. Bases de références
-	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept d'amnésie écologique pour démontrer le grand problème de l'écologie.
+2. Bases de référence
+	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept du changement de bases de références pour démontrer le grand problème de l'écologie.
 3. Essais
 	- Mes écrits, souvent inquisitoires, sur la nature et autres sujets.
 
