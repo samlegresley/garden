@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Acer saccharum.md","permalink":"/bases-de-reference/referents/acer-saccharum/","tags":["arbre","plantes-indigènes","conifère"],"noteIcon":"1","dg-note-properties":{"tags":["arbre","plantes-indigènes","conifère"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Acer saccharum.md","permalink":"/bases-de-reference/referents/acer-saccharum/","tags":["arbre","plantes-indigènes","conifère","ressenti"],"noteIcon":"1","dg-note-properties":{"tags":["arbre","plantes-indigènes","conifère","ressenti"]}}
 ---
 
 # Érable à sucre

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/Le journal nature.md","permalink":"/arts-et-mediums/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"],"noteIcon":"2","dg-note-properties":{"tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/Le journal nature.md","permalink":"/arts-et-mediums/le-journal-nature/","tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression","médium"],"noteIcon":"2","dg-note-properties":{"tags":["biodiversité","nature","métacognition","dessin","pensée-visuelle","chronique-de-vie","expression","médium"]}}
 ---
 
 **Le journal nature** plane dans mon cerveau depuis que je l'ai découvert, il y a quelques années.

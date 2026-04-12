@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","noteIcon":"1","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"1","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
 ---
 
 Il ne faut pas oublier le passé. 

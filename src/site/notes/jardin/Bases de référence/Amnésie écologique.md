@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","noteIcon":"1","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","tags":["information","métacognition","ressenti"],"noteIcon":"1","dg-note-properties":{"tags":["information","métacognition","ressenti"]}}
 ---
 
 J'ai passé des mois, avant la Pandémie de 2020, à me demander pourquoi je connaissais ce phénomène, sans me rappeler de son nom. C'est difficile de savoir ce que l'on ne sait pas. Que mettre dans la barre de recherche quand on n'a pas les mots pour l'expliquer? 

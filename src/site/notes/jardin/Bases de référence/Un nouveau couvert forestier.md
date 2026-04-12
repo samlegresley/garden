@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Un nouveau couvert forestier.md","permalink":"/bases-de-reference/un-nouveau-couvert-forestier/","noteIcon":"1","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bases de référence/Un nouveau couvert forestier.md","permalink":"/bases-de-reference/un-nouveau-couvert-forestier/","tags":["biodiversité","biorégion","nature","ressenti","printemps"],"noteIcon":"1","dg-note-properties":{"tags":["biodiversité","biorégion","nature","ressenti","printemps"]}}
 ---
 
 Il est considéré normal dans notre société de penser que les arbres dans notre forêt sont anciens. Ou que le couvert forestier restera toujours le même.

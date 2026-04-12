@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","conifère"],"noteIcon":"1","dg-note-properties":{"tags":["arbre","conifère"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","conifère","ressenti"],"noteIcon":"1","dg-note-properties":{"tags":["arbre","conifère","ressenti"]}}
 ---
 
 ## Hêtre à grandes feuilles

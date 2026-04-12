@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/Le jardin digital.md","permalink":"/arts-et-mediums/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information","expression"],"noteIcon":"1","dg-note-properties":{"tags":["métacognition","chronique-de-vie","information","expression"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/Le jardin digital.md","permalink":"/arts-et-mediums/le-jardin-digital/","tags":["métacognition","chronique-de-vie","information","expression","médium"],"noteIcon":"1","dg-note-properties":{"tags":["métacognition","chronique-de-vie","information","expression","médium"]}}
 ---
 
 Pour combattre la surdose d'information, j'ai opté pour le [[jardin/Arts et médiums/Le journal nature\|journal nature]] il y a quelques années. Mais que faire quand tout est gris, pluvieux ou enneigé? C'est là où j'ai découvert le concept de **jardin digital**, qui me permet de lire et d'écrire sur des sujets qui m'intéressent.
