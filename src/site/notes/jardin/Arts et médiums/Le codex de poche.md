@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/Le codex de poche.md","permalink":"/arts-et-mediums/le-codex-de-poche/","tags":["chronique-de-vie","écriture","dessin","expression","information","médium","métacognition","pensée-visuelle"],"noteIcon":"2","dg-note-properties":{"tags":["chronique-de-vie","écriture","dessin","expression","information","médium","métacognition","pensée-visuelle"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/Le codex de poche.md","permalink":"/arts-et-mediums/le-codex-de-poche/","tags":["chronique-de-vie","écriture","dessin","expression","information","médium","métacognition","pensée-visuelle"],"noteIcon":"2","created":"2026-04-12T10:03:09.937-03:00","updated":"2026-04-12T10:55:39.653-03:00","dg-note-properties":{"tags":["chronique-de-vie","écriture","dessin","expression","information","médium","métacognition","pensée-visuelle"]}}
 ---
 
 >[!quote] En ce moment, la plupart d'entre nous ont un geste particulier, très familier, qui se produit dans les espaces liminaux... À une caisse, à un feu rouge, à la file de ramassage à la garderie... On attrape notre téléphone. Et si, chaque fois que l'on cherchait instinctivement un moment de distraction au téléphone — on prenait plutôt notre codex?

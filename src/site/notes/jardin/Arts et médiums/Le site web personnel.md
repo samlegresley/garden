@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/Le site web personnel.md","permalink":"/arts-et-mediums/le-site-web-personnel/","tags":["pensée-visuelle","écriture","chronique-de-vie","expression","médium"],"noteIcon":"2","dg-note-properties":{"tags":["pensée-visuelle","écriture","chronique-de-vie","expression","médium"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/Le site web personnel.md","permalink":"/arts-et-mediums/le-site-web-personnel/","tags":["pensée-visuelle","écriture","chronique-de-vie","expression","médium"],"noteIcon":"2","created":"2025-10-11T23:09:52.101-03:00","updated":"2026-04-12T09:47:12.121-03:00","dg-note-properties":{"tags":["pensée-visuelle","écriture","chronique-de-vie","expression","médium"]}}
 ---
 
 Différent du [[jardin/Arts et médiums/Le jardin digital\|jardin digital]] par son style "Web 1.0", le site personnel a toujours fait partie d'Internet depuis sa création, comme en témoignent les nombreux sites qui existent encore aux marges du web.

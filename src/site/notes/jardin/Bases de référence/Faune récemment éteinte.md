@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Faune récemment éteinte.md","permalink":"/bases-de-reference/faune-recemment-eteinte/","tags":["biodiversité","biorégion","ressenti","information","métacognition","nature"],"noteIcon":"1","dg-note-properties":{"tags":["biodiversité","biorégion","ressenti","information","métacognition","nature"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Faune récemment éteinte.md","permalink":"/bases-de-reference/faune-recemment-eteinte/","tags":["biodiversité","biorégion","ressenti","information","métacognition","nature"],"noteIcon":"1","created":"2025-10-11T23:11:54.595-03:00","updated":"2026-04-12T10:57:32.869-03:00","dg-note-properties":{"tags":["biodiversité","biorégion","ressenti","information","métacognition","nature"]}}
 ---
 
 J'ai une fascination avec les animaux, surtout de ma région, récemment éteints. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/Les arts de terrain.md","permalink":"/arts-et-mediums/les-arts-de-terrain/","tags":["biodiversité","nature","expression","chronique-de-vie","dessin","pensée-visuelle","écriture","cartes","art"],"noteIcon":"2","dg-note-properties":{"tags":["biodiversité","nature","expression","chronique-de-vie","dessin","pensée-visuelle","écriture","cartes","art"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/Les arts de terrain.md","permalink":"/arts-et-mediums/les-arts-de-terrain/","tags":["biodiversité","nature","expression","chronique-de-vie","dessin","pensée-visuelle","écriture","cartes","art"],"noteIcon":"2","created":"2025-07-27T19:33:50.175-03:00","updated":"2026-04-12T09:59:52.913-03:00","dg-note-properties":{"tags":["biodiversité","nature","expression","chronique-de-vie","dessin","pensée-visuelle","écriture","cartes","art"]}}
 ---
 
 Approche que j'ai récemment découverte, les **arts de terrain** sont définis par la création artistique inspirée d'un lieu, au plus souvent extérieur.

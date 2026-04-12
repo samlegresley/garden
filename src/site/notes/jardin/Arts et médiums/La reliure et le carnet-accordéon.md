@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Arts et médiums/La reliure et le carnet-accordéon.md","permalink":"/arts-et-mediums/la-reliure-et-le-carnet-accordeon/","tags":["pensée-visuelle","chronique-de-vie","métacognition","médium"],"noteIcon":"1","dg-note-properties":{"tags":["pensée-visuelle","chronique-de-vie","métacognition","médium"]}}
+{"dg-publish":true,"dg-path":"Arts et médiums/La reliure et le carnet-accordéon.md","permalink":"/arts-et-mediums/la-reliure-et-le-carnet-accordeon/","tags":["pensée-visuelle","chronique-de-vie","métacognition","médium"],"noteIcon":"1","created":"2025-03-21T13:09:08.742-03:00","updated":"2026-04-12T10:00:07.838-03:00","dg-note-properties":{"tags":["pensée-visuelle","chronique-de-vie","métacognition","médium"]}}
 ---
 
 La **reliure** et le **carnet accordéon** sont des pratiques qui permettent de créer son propre carnet au contenu aussi long qu'on le veut.

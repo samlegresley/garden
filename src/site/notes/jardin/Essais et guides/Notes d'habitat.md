@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Essais et guides/Notes d'habitat.md","permalink":"/essais-et-guides/notes-d-habitat/","tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"],"noteIcon":"2","dg-note-properties":{"tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"]}}
+{"dg-publish":true,"dg-path":"Essais et guides/Notes d'habitat.md","permalink":"/essais-et-guides/notes-d-habitat/","tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"],"noteIcon":"2","created":"2025-10-30T18:41:59.773-03:00","updated":"2026-04-12T11:14:02.165-03:00","dg-note-properties":{"tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"]}}
 ---
 
 Un projet que j'ai en tête récemment est de créer un zine pour attirer la faune avec la flore. Voici son contenu en gros. Utilisez ces informations pour attirer de nouveaux amis, avec le pouvoir de votre cour. Parce qu'elle fait partie de la nature!
@@ -12,7 +12,7 @@ Un projet que j'ai en tête récemment est de créer un zine pour attirer la fau
 	- Laissez passer les saisons. Vos plantes pourraient prendre des années à fleurir et à être visitées par la faune, donc soyez patient·e.  
 	- Nettoyez moins. À moins qu’il y ait présence d’espèces envahissantes, on doit se garder de tout nettoyer.  Laissez les feuilles là, les plantes sont habituées aux cycles naturels.  
 	- Documentez. Notez ce qu’il faut dans votre carnet pour que vous puissiez vous souvenir de l’aventure qui vous a mené là.  
-	- Encouragez la vie. Évitez les pesticides tueurs d'insectes et la tonte trop fréquente.  
+	- Encouragez la vie. Évitez les pesticides tueurs d'insectes et la tonte trop fréquente.  
 	- Notez vos propres apprentissages et principes.
 
 2. **Toute l'année**

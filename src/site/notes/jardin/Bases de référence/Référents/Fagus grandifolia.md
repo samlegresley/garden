@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","ressenti","feuillu","plantes-indigènes"],"noteIcon":"1","dg-note-properties":{"tags":["arbre","ressenti","feuillu","plantes-indigènes"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","ressenti","feuillu","plantes-indigènes"],"noteIcon":"1","created":"2026-04-11T23:45:53.859-03:00","updated":"2026-04-12T10:07:21.970-03:00","dg-note-properties":{"tags":["arbre","ressenti","feuillu","plantes-indigènes"]}}
 ---
 
 # Hêtre à grandes feuilles
