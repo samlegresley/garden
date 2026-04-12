@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","title":"Accueil - Jardin digital","tags":["gardenEntry"],"noteIcon":"default","dg-note-properties":{"title":"Accueil - Jardin digital"}}
+{"dg-publish":true,"dg-path":"Accueil.md","permalink":"/accueil/","title":"Accueil - Jardin digital","hide":true,"tags":["gardenEntry"],"noteIcon":"default","dg-note-properties":{"title":"Accueil - Jardin digital"}}
 ---
 
 Bienvenue au jardin.
