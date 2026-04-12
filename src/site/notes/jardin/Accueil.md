@@ -3,7 +3,7 @@
 ---
 
 Bienvenue au jardin.
-Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Plants/Arts et médiums/Le jardin digital\|jardin digital]] au printemps 2025.
+Issu d'une réflexion constante à propos du web francophone, je lance ce [[jardin/Arts et médiums/Le jardin digital\|jardin digital]] au printemps 2025.
 Il vise à organiser ma pensée, à explorer mon processus créatif et à en apprendre plus au sujet des manques à remplir en termes de ressources en français sur internet. 
 Les sujets incluront mes intérêts personnels, mes passe-temps et mes recherches, en tant qu'artiste visuel, et citoyen nord-américain qui a un penchant pour l'intersection entre la nature et la culture. Les ressources en anglais que je trouve intéressantes seront mises en contexte en français, à défaut d'être complètement traduites.
 ## Qui suis-je?
@@ -12,7 +12,7 @@ Je suis [Samuel LeGresley](https://samlegresley.com), j'aime jardiner (oui, avec
 Je suis curateur de la guilde nature Hémiboréal, une initiative bilingue de journal nature et de jardinage pour la faune, pour la zone de transition dans laquelle je vis.
 - [La guilde nature Hémiboréal](https://hemiboreal.com/fr/)
 
-Parfois, j'aime aussi mettre à jour mon [[jardin/Plants/Arts et médiums/Le site web personnel\|site web personnel]] en anglais:
+Parfois, j'aime aussi mettre à jour mon [[jardin/Arts et médiums/Le site web personnel\|site web personnel]] en anglais:
 - [Mon journal multimédia : birdtree.land](https://birdtree.land)
 
 En créant ces sites et en naviguant le web, je remarque un assez grand désavantage à publier en français. Il est difficile de justifier une présence francophone face à l'anglais, qui prend une place démesurée, surtout en Amérique du Nord. Les ressources botaniques que je trouve sont très rarement traduites, encore moins y-a-t-il de produits créés par des auteurs francophones.
