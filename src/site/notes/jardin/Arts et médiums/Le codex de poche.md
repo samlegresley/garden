@@ -9,7 +9,7 @@ Beaucoup de gens ont un déficit d'attention, et leur téléphone le rend encore
 
 La solution au problème modèle du *sur-défilement* n'est donc certainement pas le téléphone. Et c'est peut-être plus simple que l'on croit de créer nous mêmes l'alternative.
 
-## Le format zine à la rescousse!
+## Le *mini-zine* à la rescousse!
 
 En créant votre propre minizine, vous aurez seize mini-pages à remplir au lieu de chercher pour votre téléphone. Mettez-le dans votre poche et sortez-le au lieu de sortir votre téléphone!
 
