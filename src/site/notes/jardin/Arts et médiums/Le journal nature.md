@@ -34,7 +34,7 @@ Quoi qu'il en soit, la plus grande barrière à son adoption semble être l'asso
 
 Je prends soin de ne pas appeler mes journaux de l'art, pour ne pas réserver la pratique aux artistes.
 ## Mes propres journaux
-En 2025, j'ai commencé à relier mes propres journaux, grâce à une [[jardin/Arts et médiums/La reliure et le journal-accordéon\|technique de reliure]].
+En 2025, j'ai commencé à relier mes propres journaux, grâce à une [[jardin/Arts et médiums/La reliure et le carnet-accordéon\|technique de reliure]].
 
 ![](https://i.imgur.com/9H242Mw.jpeg)
 
