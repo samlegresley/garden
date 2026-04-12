@@ -16,3 +16,9 @@ Il est bon de se rappeler que 200 ans passés, ces animaux étaient encore là.
 Et plusieurs d'autres pourraient bien rejoindre leurs rangs si on n'arrête pas de détruire leur habitat.
 
 Il est bon de se rappeler. Ce rappel, cette remise à niveau de nos bases de références, n'est peut-être pas une cure au pessimisme, mais une cure à l'amnésie.
+
+---
+
+Mes propres bases de références pour ces espèces, toutefois, sont tout à fait impossibles à obtenir. Les sources seront toujours de seconde main.
+
+En fait, personne en vie n'a de base. Ça rend l'extinction d'autant plus tragique.
