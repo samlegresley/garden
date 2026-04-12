@@ -23,7 +23,7 @@ Ceci indique le temps que j'ai passé à rechercher et à penser chaque article.
 ## Premiers *plants*
 Trois différentes sections sont ici :
 1. Arts et médiums
-	- Mes différentes façons de m'exprimer.
+	- Mes différentes façons de m'exprimer et de documenter.
 2. Bases de référence
 	- Tout ce qui a rapport à l'histoire environnementale, en utilisant le concept du changement de bases de références pour démontrer le grand problème de l'écologie.
 3. Essais
