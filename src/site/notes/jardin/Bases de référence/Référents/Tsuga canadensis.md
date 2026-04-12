@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","noteIcon":"2","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère"],"noteIcon":"2","dg-note-properties":{"tags":["arbre","conifère"]}}
 ---
 
+# Pruche du Canada
 Je me dis que j'ai une vague *impression*, quand même, de comment mon lieu de vie avait l'air, avant. 
 Mais le *ressenti*, je ne l'ai pas. Mon référent s'est nivelé vers le bas. 
 
