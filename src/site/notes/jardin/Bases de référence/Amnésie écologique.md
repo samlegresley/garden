@@ -18,3 +18,5 @@ Liste actuelle de référents
 Même si on a toutes les données scientifiques pour établir la base de référence d'aujourd'hui, sans la documentation fournie par la création documentaire ou créative, on aura quand même perdu le *ressenti* de nos promenades dans la nature d'aujourd'hui, aussi fragmentée qu'elle soit. 
 
 J'espère donc que cette section serve à nous faire apprécier ce qu'on risque de perdre.
+
+Mais par-dessus tout, j'espère que nous réaliserons notre pouvoir à préserver ce qu'il nous reste.
