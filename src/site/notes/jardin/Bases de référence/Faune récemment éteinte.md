@@ -15,7 +15,7 @@ Il est bon de se rappeler que 200 ans passés, ces animaux étaient encore là.
 
 Et plusieurs d'autres pourraient bien rejoindre leurs rangs si on n'arrête pas de détruire leur habitat.
 
-Il est bon de se rappeler. Ce rappel, cette remise à niveau de nos bases de références, n'est peut-être pas une cure au pessimisme, mais une cure à l'amnésie.
+Il est bon de se rappeler. Ce rappel, cette remise à niveau [[jardin/Bases de référence/Changement des bases de référence\|de nos bases de références]], n'est peut-être pas une cure au pessimisme, mais une cure à [[jardin/Bases de référence/Amnésie écologique\|l'amnésie]].
 
 ---
 

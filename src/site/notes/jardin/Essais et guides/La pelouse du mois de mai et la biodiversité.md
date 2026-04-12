@@ -6,7 +6,7 @@
 
 «Pas de tondeuse en mai, c’est bon pour les abeilles parce que ça donne une source de pollen précoce aux pollinisateurs.» Depuis quelques années, on entend ici en Amérique du Nord ce discours qui tire son origine du Royaume-Uni. Il peut être vrai pour certaines régions de notre propre continent, mais même dans ce cas il faut être correctement outillé pour en parler de la bonne façon.
 
-Mais n’ayez crainte! Vous pouvez commencer n’importe quand à aider nos pollinisateurs. En prenant le point de vue de la nature, posons-nous des questions sur cette pratique assez répandue aujourd’hui. Restez à l’écoute, plus de questions seront publiées ici au cours du mois de mai.
+Mais n’ayez crainte! Vous pouvez commencer n’importe quand à aider nos pollinisateurs. En prenant le point de vue de la nature, posons-nous des questions sur cette pratique assez répandue aujourd’hui. Restez à l’écoute, plus de questions seront publiées ici au cours du mois de mai (2023).
 
 _Note: Cet article est publié pour la forêt Acadienne-Wabanaki, à l’est de l’Amérique du Nord, du point de vue de la zone de rusticité 5 dans les provinces Maritimes. Lisez ci-dessous pour plus de détails. Faites preuve d’un esprit critique et consultez vos ressources locales pour déterminer quand est le meilleur temps de laisser votre gazon pousser!_
 
@@ -126,7 +126,7 @@ Vous y trouverez aussi les définitions d’une plante indigène par rapport à 
 
 Fin mai, peut-être que vous avez déjà sorti votre tondeuse. De toute façon, les pissenlits sont peut-être déjà montés en graine chez-vous. Ou pas. De toute façon, les pissenlits ne sont pas au centre de ce débat.
 
-Ce que je veux dire ici, c’est que “Pas de tondeuse en Mai” n’est pas assez pour aider la biodiversité. Si on veut aider certaines espèces à échapper l’extinction, il faut non seulement tondre moins souvent, mais surtout faire pousser des plantes pour les pollinisateurs et autres animaux. Ou si vous avez le temps, convertissez une partie de votre cour en jardin de plantes indigènes!
+Ce que je veux dire ici, c’est que “Pas de tondeuse en Mai” n’est pas assez pour aider la biodiversité. Si on veut aider certaines espèces à échapper l’extinction, il faut non seulement tondre moins souvent, mais surtout faire pousser des plantes pour les pollinisateurs et autres animaux. Ou si vous avez le temps, [[jardin/Essais et guides/Notes d'habitat\|convertissez une partie de votre cour en jardin de plantes indigènes]]!
 
 ![](https://images.squarespace-cdn.com/content/v1/64472228d3db854cf60d06ad/d8ebf3cd-efe9-4deb-ab23-bfa71af3acf9/20220720_101609.jpg)
 
