@@ -18,7 +18,7 @@ Mais il existe toutes sortes de formes de reliure, parfois avec, parfois sans co
 
 ![](https://i.imgur.com/JIjBZQW.jpeg)
 
-Il est donc possible de créer un carnet, qu'on peut plus tard ajouter des feuilles additionnelles qui déplient. Je l'appelle mon *carnet-accordéon*. Les feuilles sont simplement ajoutées avec de la colle et/ou du ruban adhésif.
+Il est donc possible de créer un carnet, qu'on peut plus tard ajouter des feuilles additionnelles qui déplient. Je l'appelle mon *carnet-accordéon*. Les feuilles sont simplement ajoutées avec de la colle et/ou du ruban adhésif;
 
 ![](https://i.imgur.com/GoROmnG.jpeg)
 
