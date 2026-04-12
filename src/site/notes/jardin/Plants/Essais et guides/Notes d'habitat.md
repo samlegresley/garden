@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Plants/Essais et guides/Notes d'habitat.md","permalink":"/plants/essais-et-guides/notes-d-habitat/","noteIcon":"2","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Plants/Essais et guides/Notes d'habitat.md","permalink":"/plants/essais-et-guides/notes-d-habitat/","tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"],"noteIcon":"2","dg-note-properties":{"tags":["nature","biodiversité","pollinisateurs","plantes-indigènes","jardinage"]}}
 ---
 
 	
