@@ -10,4 +10,4 @@ Le climat qui rend cela possible, ce croisement de l'espèce feuillue avec les f
 
 Cette période, pour moi, est la cinquième saison. La lune de l'érable des peuples autochtones. 
 
-Le printemps commence 
+On ne peut que penser aux menaces qui guettent cette saison. 
