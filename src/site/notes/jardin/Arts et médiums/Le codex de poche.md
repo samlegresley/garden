@@ -13,7 +13,7 @@ La solution au problème modèle du *sur-défilement* n'est donc certainement pa
 
 En créant votre propre minizine, vous aurez seize mini-pages à remplir au lieu de chercher pour votre téléphone. Mettez-le dans votre poche et sortez-le au lieu de sortir votre téléphone!
 
-[![](https://i.imgur.com/PCUyDNG.png)]
+![](https://i.imgur.com/PCUyDNG.png)
 
 J'aime moi-même utiliser des feuilles quadrillées, et en faire un calendrier. Mais on peut en faire ce qu'on veut, pour le temps qu'on veut! Par exemple, on peut faire un codex pour une semaine, pour un jour, etc.
 ## Le codex comme solution au *scroll* (défilement)
