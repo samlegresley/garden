@@ -1,0 +1,33 @@
+{
+  "/": [
+    "Accueil",
+    "Arts et médiums",
+    "Bases de référence",
+    "Essais et guides"
+  ],
+  "/Arts et médiums": [
+    "La reliure et le carnet-accordéon",
+    "Le codex de poche",
+    "Le jardin digital",
+    "Le journal nature",
+    "Le site web personnel",
+    "Les arts de terrain",
+    "Les cartes d'art à échanger (Artist Trading Cards)"
+  ],
+  "/Bases de référence": [
+    "Amnésie écologique",
+    "Faune récemment éteinte",
+    "Un nouveau couvert forestier",
+    "Référents",
+    "Changement des bases de référence"
+  ],
+  "/Bases de référence/Référents": [
+    "Acer saccharum",
+    "Fagus grandifolia",
+    "Tsuga canadensis"
+  ],
+  "/Essais et guides": [
+    "La pelouse du mois de mai et la biodiversité",
+    "Notes d'habitat"
+  ]
+}
