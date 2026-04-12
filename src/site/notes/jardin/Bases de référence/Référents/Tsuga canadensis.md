@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti"],"noteIcon":"2","dg-note-properties":{"tags":["arbre","conifère","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti","plantes-indigènes"],"noteIcon":"2","dg-note-properties":{"tags":["arbre","conifère","ressenti","plantes-indigènes"]}}
 ---
 
 # Pruche du Canada
