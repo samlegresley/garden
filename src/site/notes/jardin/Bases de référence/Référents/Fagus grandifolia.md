@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","ressenti","feuillu","plantes-indigènes"],"noteIcon":"1","created":"2026-04-11T23:45:53.859-03:00","updated":"2026-04-16T22:27:58.886-03:00","dg-note-properties":{"tags":["arbre","ressenti","feuillu","plantes-indigènes"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Fagus grandifolia.md","permalink":"/bases-de-reference/referents/fagus-grandifolia/","tags":["arbre","ressenti","feuillu","plantes-indigènes"],"noteIcon":"1","created":"2026-04-11T23:45:53.859-03:00","updated":"2026-04-16T22:53:29.675-03:00","dg-note-properties":{"tags":["arbre","ressenti","feuillu","plantes-indigènes"]}}
 ---
 
 # Hêtre à grandes feuilles
@@ -11,3 +11,5 @@ Quelqu'un qui n'a pas vu les verdoyantes feuilles sous la canopée en été n'a 
 Malgré ses peuplements majestueux, le hêtre a souvent l'aspect d'un arbre bossu, en raison de différents parasites.
 
 Par risque de sonner cliché... hêtre, ou ne pas être, telle est la question.
+
+![](https://i.imgur.com/SYFix0b.jpeg)

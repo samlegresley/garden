@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti","plantes-indigènes"],"noteIcon":"2","created":"2026-04-11T23:03:19.828-03:00","updated":"2026-04-16T22:28:06.104-03:00","dg-note-properties":{"tags":["arbre","conifère","ressenti","plantes-indigènes"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti","plantes-indigènes"],"noteIcon":"2","created":"2026-04-11T23:03:19.828-03:00","updated":"2026-04-16T22:54:34.511-03:00","dg-note-properties":{"tags":["arbre","conifère","ressenti","plantes-indigènes"]}}
 ---
 
 # Pruche du Canada
@@ -16,3 +16,6 @@ C'est à cause du teint verdâtre donné par ses aiguilles, lorsque la lumière 
 Mais tout ça, ce *ressenti* de la pruche, est peut-être appelé à disparaître avec les arbres eux-mêmes. Une infestation sévère du puceron lanigère, un parasite de la pruche, a déjà commencé à tuer des peuplements entiers ici, qui sont achevés par des ouragans de plus en plus communs.
 
 Est-ce que la génération d'après saura à quoi avaient *vraiment* l'air nos innombrables peuplements de pruche?
+
+
+![](https://i.imgur.com/iSYgq4O.jpeg)
