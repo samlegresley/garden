@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","tags":["information","métacognition","ressenti"],"noteIcon":"1","created":"2026-04-11T22:57:24.148-03:00","updated":"2026-04-12T09:49:09.802-03:00","dg-note-properties":{"tags":["information","métacognition","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","tags":["information","métacognition","ressenti"],"noteIcon":"1","created":"2026-04-11T22:57:24.148-03:00","updated":"2026-04-16T22:40:31.504-03:00","dg-note-properties":{"tags":["information","métacognition","ressenti"]}}
 ---
 
 J'ai passé des mois, avant la Pandémie de 2020, à me demander pourquoi je connaissais ce phénomène, sans me rappeler de son nom. C'est difficile de savoir ce que l'on ne sait pas. Que mettre dans la barre de recherche quand on n'a pas les mots pour l'expliquer? 
@@ -8,12 +8,13 @@ Du moins, j'avais appris l'existence de ce phénomène, mais je ne pouvais pas l
 
 ---
 
-J'ai donc dédié cette section à mon ressenti par rapport à mes espèces préférées.
+Pour combattre cette amnésie, j'ai donc dédié cette section à mon ressenti par rapport à mes espèces préférées.
 
 Liste actuelle de référents
 - [[jardin/Bases de référence/Référents/Tsuga canadensis\|Tsuga canadensis]]
 - [[jardin/Bases de référence/Référents/Fagus grandifolia\|Fagus grandifolia]]
 - [[jardin/Bases de référence/Référents/Acer saccharum\|Acer saccharum]]
+- [[jardin/Bases de référence/Référents/Pinus strobus\|Pinus strobus]]
 
 Même si on a toutes les données scientifiques pour établir la base de référence d'aujourd'hui, sans la documentation fournie par la création documentaire ou créative, on aura quand même perdu le *ressenti* de nos promenades dans la nature d'aujourd'hui, aussi fragmentée qu'elle soit. 
 
