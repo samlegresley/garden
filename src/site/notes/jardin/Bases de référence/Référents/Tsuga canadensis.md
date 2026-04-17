@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti","plantes-indigènes"],"noteIcon":"2","created":"2026-04-11T23:03:19.828-03:00","updated":"2026-04-12T10:07:24.274-03:00","dg-note-properties":{"tags":["arbre","conifère","ressenti","plantes-indigènes"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Référents/Tsuga canadensis.md","permalink":"/bases-de-reference/referents/tsuga-canadensis/","tags":["arbre","conifère","ressenti","plantes-indigènes"],"noteIcon":"2","created":"2026-04-11T23:03:19.828-03:00","updated":"2026-04-16T22:28:06.104-03:00","dg-note-properties":{"tags":["arbre","conifère","ressenti","plantes-indigènes"]}}
 ---
 
 # Pruche du Canada
+
 Je me dis que j'ai une vague *impression*, quand même, de comment mon lieu de vie avait l'air, avant. 
 Mais le *ressenti*, je ne l'ai pas. Mon référent s'est nivelé vers le bas. 
 
