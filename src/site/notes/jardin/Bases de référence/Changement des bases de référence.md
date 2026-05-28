@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:11:21.359-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:12:14.403-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
 ---
 
 Il ne faut pas oublier le passé. 
@@ -21,10 +21,11 @@ Je vois le phénomène comme une progression linéaire — c'est une logique que
 	* Cela n'est pas un phénomène néfaste en soi, seulement une affirmation et une constatation que la personne descendante d'un ou des parents (terme entendu ici comme personne d'autorité se chargeant de transmettre de savoir à la personne) ne pourra jamais tout connaître ce que ses parents ont vécu.
 2. De là vient le **changement de perspective générationnel**, vécu à un niveau individuel par rapport au parent. 
 	* Je propose qu'au cours de son développement jusqu'à l'âge adulte et au-delà, la personne sera portée à adopter une perspective fondamentalement différente de ses parents, basée sur les expériences qu'elle a vécu. On peut extrapoler que cette personne tirera, dans l'exemple de l'écologie, des conclusions sur la *normalité* d'un habitat qui seront basées sur la santé et la quantité de faune et de flore (aussi, d'habitat) observée.
-
-*Ça vient ensuite affecter la société, pouvant se manifester dans les actions humaines plus globales*:
 3. De là, si assez de gens adoptent une nouvelle perspective, on peut parler de **Changement sociétal des bases de références**.
 	* Dans l'exemple écologique, c'est souvent caractérisé par un nivellement par le bas, suivant la dégradation des écosystèmes. Ce *nouveau normal* est souvent moins abondant que le dernier.
+
+*Ce dernier vient affecter la société, pouvant se manifester dans les actions humaines plus globales.*
+
 
 ---
 ### Citations et autorités en la matière
