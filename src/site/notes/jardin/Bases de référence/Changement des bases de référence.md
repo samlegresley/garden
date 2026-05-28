@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:22:18.173-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:23:21.617-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
 ---
 
 Il ne faut pas oublier le passé. 
@@ -16,7 +16,7 @@ Il ne faut pas oublier le passé abondant qui nous a donné vie.
 
 ### Une théorie sur son origine
 
-Je vois le phénomène comme une progression linéaire — c'est une logique que je commence à réfléchir et développer, donc je m'explique. Prenez cette affirmation publiée dans le [[jardin/Arts et médiums/Le jardin digital\|jardin digital]] que vous êtes en train de lire comme une hypothèse. Je n'ai pas tout les termes pour définir tout ça, mais voici ce que je tente d'expliquer :
+Je vois le phénomène comme une progression linéaire — c'est une logique sur laquelle je commence à réfléchir et développer, donc je m'explique. Prenez cette affirmation publiée dans le [[jardin/Arts et médiums/Le jardin digital\|jardin digital]] que vous êtes en train de lire comme une hypothèse. Je n'ai pas tout les termes pour définir tout ça, mais voici ce que je tente d'expliquer :
 
 *Ça commencerait au niveau individuel, par un phénomène anodin:*
 1. Tout cela partirait à la base de l'**ignorance de la descendance**. 
