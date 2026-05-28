@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:23:21.617-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Changement des bases de référence.md","permalink":"/bases-de-reference/changement-des-bases-de-reference/","tags":["biodiversité","information","métacognition","ressenti"],"noteIcon":"2","created":"2025-10-11T23:44:39.917-03:00","updated":"2026-05-27T22:25:29.582-03:00","dg-note-properties":{"tags":["biodiversité","information","métacognition","ressenti"]}}
 ---
 
 Il ne faut pas oublier le passé. 
@@ -49,7 +49,4 @@ Daniel Pauly, l'un des grands théoriciens de ce concept, a beaucoup pensé à l
 
 ---
 
-La question pour moi demeure, par contre: est-ce que c'est le manque d'éducation qui est à blâmer, le manque de documentation lui-même plutôt, ou est-ce tout simplement inévitable que l'on perdra mémoire de tout ce qui disparaît?
-
-
-
+La question pour moi demeure, par contre: est-ce que c'est le manque d'éducation qui est à blâmer, le manque de documentation lui-même plutôt, le manque de popularité dans les matériaux créés par les artistes, ou est-ce tout simplement inévitable que l'on perdra mémoire de tout ce qui disparaît?
