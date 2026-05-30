@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","tags":["information","métacognition","ressenti"],"noteIcon":"1","created":"2026-04-11T22:57:24.148-03:00","updated":"2026-04-16T22:40:31.504-03:00","dg-note-properties":{"tags":["information","métacognition","ressenti"]}}
+{"dg-publish":true,"dg-path":"Bases de référence/Amnésie écologique.md","permalink":"/bases-de-reference/amnesie-ecologique/","tags":["information","métacognition","ressenti"],"noteIcon":"1","created":"2026-04-11T22:57:24.148-03:00","updated":"2026-05-30T09:47:05.891-03:00","dg-note-properties":{"tags":["information","métacognition","ressenti"]}}
 ---
 
 J'ai passé des mois, avant la Pandémie de 2020, à me demander pourquoi je connaissais ce phénomène, sans me rappeler de son nom. C'est difficile de savoir ce que l'on ne sait pas. Que mettre dans la barre de recherche quand on n'a pas les mots pour l'expliquer? 
@@ -15,6 +15,7 @@ Liste actuelle de référents
 - [[jardin/Bases de référence/Référents/Fagus grandifolia\|Fagus grandifolia]]
 - [[jardin/Bases de référence/Référents/Acer saccharum\|Acer saccharum]]
 - [[jardin/Bases de référence/Référents/Pinus strobus\|Pinus strobus]]
+- [[jardin/Bases de référence/Référents/Betula alleghaniensis\|Betula alleghaniensis]]
 
 Même si on a toutes les données scientifiques pour établir la base de référence d'aujourd'hui, sans la documentation fournie par la création documentaire ou créative, on aura quand même perdu le *ressenti* de nos promenades dans la nature d'aujourd'hui, aussi fragmentée qu'elle soit. 
 
