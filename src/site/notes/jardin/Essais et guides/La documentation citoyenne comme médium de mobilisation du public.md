@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Essais et guides/La documentation citoyenne comme médium de mobilisation du public.md","permalink":"/essais-et-guides/la-documentation-citoyenne-comme-medium-de-mobilisation-du-public/","tags":["biodiversité","émancipation","minorité","colonisation","information"],"noteIcon":"1","created":"2026-11-21T18:34:38.168-04:00","updated":"2026-11-21T19:40:43.145-04:00","dg-note-properties":{"tags":["biodiversité","émancipation","minorité","colonisation","information"]}}
+{"dg-publish":true,"dg-path":"Essais et guides/La documentation citoyenne comme médium de mobilisation du public.md","permalink":"/essais-et-guides/la-documentation-citoyenne-comme-medium-de-mobilisation-du-public/","tags":["biodiversité","émancipation","minorité","colonisation","information"],"noteIcon":"1","created":"2026-11-21T18:34:38.168-04:00","updated":"2026-11-21T19:42:39.302-04:00","dg-note-properties":{"tags":["biodiversité","émancipation","minorité","colonisation","information"]}}
 ---
 
 Parfois, la mobilisation citoyenne peut vraiment mener à un changement de paradigme. Et les ONG, soit culturelles, environnementales ou autres, peuvent y jouer un rôle.
@@ -14,8 +14,8 @@ Cela, depuis la fondation d'[eBird](https://ebird.org) et d'[iNaturalist](https:
 
 D'un autre ordre d'idées, j'ose croire que l'espace donné par le Wikithon (marathon d'édition de Wikipédia) si balisé et encouragé par la communauté culturelle, pourrait redonner une certaine découvrabilité aux médias artistiques locaux, et donnerait un pouvoir d'émancipation aux cultures colonisées et minoritaires, ainsi qu'aux organismes œuvrant dans le domaine culturel. Dans une ère où la découvrabilité prime, [Wikipédia](https://wikipedia.org) joue un grand rôle dans la sélection des informations présentées au public par les engins de recherche. L'exercice de montrer les notions d'impartialité, de notabilité, ainsi qu'une prise de conscience collective entre les ONG et la population pourrait réellement faire changer les choses, à mon avis. 
 
-Je regroupe ces deux idées ensemble, pour ainsi les nommer des exemples de «documentation citoyenne». De construire une communauté qui contribue à cette documentation *bottom-up* (*du bas vers le haut*) ou *horizontale* (*peer-to-peer*) augmente le nombre de données et d'histoires locales mis au plan global. 
-
 Il existe une interaction, aussi, entre la science citoyenne et Wikipédia : [la license CC0, CC-BY or CC-BY-SA du matériel photographié](https://commons.wikimedia.org/wiki/Commons:INaturalist).
+
+Je regroupe ces deux idées ensemble, pour ainsi les nommer des exemples de «documentation citoyenne». De construire une communauté qui contribue à cette documentation *bottom-up* (*du bas vers le haut*) ou *horizontale* (*peer-to-peer*) augmente le nombre de données et d'histoires locales mis au plan global. 
 
 Pour certaines personnes, la notion de documentation citoyenne et l'effort de mobilisation qui en découle pourrait être un synonyme d'émancipation, vu que les membres de cultures minoritaires ou colonisées pourraient être mis de l'avant. Pour certaines autres, contribuer à cette documentation pourrait vouloir dire une augmentation de leur connaissance des enjeux locaux, des espèces locales, ainsi que des cultures, des œuvres et des personnes locales, dans une atmosphère rassembleuse et marquée d'un but commun.
