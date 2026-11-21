@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Essais et guides/La documentation citoyenne comme médium de mobilisation du public.md","permalink":"/essais-et-guides/la-documentation-citoyenne-comme-medium-de-mobilisation-du-public/","tags":["biodiversité","émancipation","minorité","colonisation","information"],"noteIcon":"1","created":"2026-11-21T18:34:38.168-04:00","updated":"2026-11-21T19:42:39.302-04:00","dg-note-properties":{"tags":["biodiversité","émancipation","minorité","colonisation","information"]}}
+{"dg-publish":true,"dg-path":"Essais et guides/La documentation citoyenne comme médium de mobilisation du public.md","permalink":"/essais-et-guides/la-documentation-citoyenne-comme-medium-de-mobilisation-du-public/","tags":["biodiversité","émancipation","minorité","colonisation","information"],"noteIcon":"1","created":"2026-11-21T18:34:38.168-04:00","updated":"2026-11-21T19:44:41.509-04:00","dg-note-properties":{"tags":["biodiversité","émancipation","minorité","colonisation","information"]}}
 ---
 
 Parfois, la mobilisation citoyenne peut vraiment mener à un changement de paradigme. Et les ONG, soit culturelles, environnementales ou autres, peuvent y jouer un rôle.
 
-Mes études, et expériences qui ont suivi, m'ont mené à (sans vouloir me limiter à celles-ci, mais par la force des choses), être mené à agir dans deux causes : celles de l'environnement et celles de la culture.
+Mes études, et expériences qui ont suivi, m'ont mené à (sans vouloir me limiter à celles-ci, mais par la force des choses) agir dans deux causes : celles de l'environnement et celles de la culture.
 
 Mon hypothèse serait que pour ces deux causes, dont plusieurs aspects vont souvent à contre-courant du système dominant, la mobilisation citoyenne peut changer la donne. En donnant aux membres du public le sens nécessaire à l'action, cela pourrait entraîner leur participation accrue. Cela mène à des espaces de mobilisation, souvent éphémères et situationnels mais pouvant devenir plus permanents dans la durée. Ces espaces vont souvent structurer l'action collective et créer une forme de démocratie directe (citoyenne, ou communautaire), pouvant modifier l'action au niveau cumulatif par les décideurs. Cela peut ensuite faire évoluer la société vers de nouveaux paradigmes.
 
