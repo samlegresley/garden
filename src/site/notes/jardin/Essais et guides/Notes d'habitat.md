@@ -18,7 +18,7 @@ Un projet que j'ai en tête récemment est de créer un zine pour attirer la fau
 2. **Toute l'année**
 	* Faire un plan de sa cour sur une feuille.  
 	* Parler à ses voisins de ce que qu'on fait.
-	* Aller en nature pour de l'inspiration, [[jardin/Arts et médiums/Le journal nature\|tenir un journal]].
+	* Aller en nature pour de l'inspiration, [[jardin/Arts et documentation/Le journal nature\|tenir un journal]].
 
 4. **Avril à juin - Priorités printanières**  
 	- Documenter la fonte des neiges, le sol exposé et les nouveaux visiteurs à son espace. Les plantes de l’an dernier qui donnent place à celles qui ressortent.  

@@ -16,7 +16,7 @@ Il ne faut pas oublier le passé abondant qui nous a donné vie.
 
 ### Une théorie sur son origine
 
-Je vois le phénomène comme une progression linéaire — c'est une logique sur laquelle je commence à réfléchir et développer, donc je m'explique. Prenez cette affirmation publiée dans le [[jardin/Arts et médiums/Le jardin digital\|jardin digital]] que vous êtes en train de lire comme une hypothèse. Je n'ai pas tout les termes pour définir tout ça, mais voici ce que je tente d'expliquer :
+Je vois le phénomène comme une progression linéaire — c'est une logique sur laquelle je commence à réfléchir et développer, donc je m'explique. Prenez cette affirmation publiée dans le [[jardin/Arts et documentation/Le jardin digital\|jardin digital]] que vous êtes en train de lire comme une hypothèse. Je n'ai pas tout les termes pour définir tout ça, mais voici ce que je tente d'expliquer :
 
 *Ça commencerait au niveau individuel, par un phénomène anodin:*
 1. Tout cela partirait à la base de l'**ignorance de la descendance**. 
@@ -44,8 +44,8 @@ Daniel Pauly, l'un des grands théoriciens de ce concept, a beaucoup pensé à l
 ### Quelles solutions pour ramener la base de référence écologique?
 
 * Conserver nos écosystèmes et habitats permet à la prochaine génération de se souvenir et de vivre grâce aux bienfaits évidents de ceux-ci.
-* Raconter des histoires, faire des dessins de ce qu'on voit [[jardin/Arts et médiums/Les arts de terrain\|sur le terrain]], écrire pour s'exprimer, et enregistrer ce qu'on écoute à l'extérieur pour le partager sont toutes des formes d'**art engagé** qui permettent à la prochaine génération de mieux ressentir le vécu.
-* Par le [[jardin/Arts et médiums/Le journal nature\|journal nature]], on peut établir une base de référence pour les générations futures, et leur montrer un peu de ce qu'on sait aujourd'hui. Et peut-être qu'eux-mêmes hériteront d'un monde où les connaissances se transmettent non seulement sur les bancs d'école, mais assis sur le sol, dehors, face à une feuille blanche.
+* Raconter des histoires, faire des dessins de ce qu'on voit [[jardin/Arts et documentation/Les arts de terrain\|sur le terrain]], écrire pour s'exprimer, et enregistrer ce qu'on écoute à l'extérieur pour le partager sont toutes des formes d'**art engagé** qui permettent à la prochaine génération de mieux ressentir le vécu.
+* Par le [[jardin/Arts et documentation/Le journal nature\|journal nature]], on peut établir une base de référence pour les générations futures, et leur montrer un peu de ce qu'on sait aujourd'hui. Et peut-être qu'eux-mêmes hériteront d'un monde où les connaissances se transmettent non seulement sur les bancs d'école, mais assis sur le sol, dehors, face à une feuille blanche.
 
 ---
 

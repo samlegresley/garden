@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Essais et guides/La pelouse du mois de mai et la biodiversité.md","permalink":"/essais-et-guides/la-pelouse-du-mois-de-mai-et-la-biodiversite/","tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature","jardinage"],"noteIcon":"3","created":"2025-03-20T08:41:13.371-03:00","updated":"2026-04-12T10:59:17.436-03:00","dg-note-properties":{"tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature","jardinage"]}}
+{"dg-publish":true,"dg-path":"Essais et guides/La pelouse du mois de mai et la biodiversité.md","permalink":"/essais-et-guides/la-pelouse-du-mois-de-mai-et-la-biodiversite/","tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature","jardinage"],"noteIcon":"3","created":"2025-03-20T08:41:13.371-03:00","updated":"2026-08-17T18:56:51.648-03:00","dg-note-properties":{"tags":["biodiversité","plantes-indigènes","pollinisateurs","biorégion","printemps","nature","jardinage"]}}
 ---
 
 *Cet article de blogue a été publié sur mon site amelan.ca en 2023, puis modifié en 2025. Voici un aperçu de comment encourager la biodiversité chez-soi, du point de vue de la pelouse en mai.*
@@ -152,7 +152,7 @@ Voici quelques suggestions si vous trouvez des plantes en pépinière :
 	- _Les sous-bois de Cape Split, parc provincial de la Nouvelle-Écosse, sont recouverts de cette belle éphémère ce temps-ci de l’année. Les trilles rouges, les fougères et les claytonies se retrouvent partout en tapis ici, illustrant bien le concept des communautés de plantes._
 
 
-Et si vous voulez sauver de l’argent à plus long-terme, participez dans votre grainothèque locale! [**Visitez cette page pour un guide publié à l’avenir**](https://semencessauvages.org/partager-notre-nature/guide/) portant sur les grainothèques de fleurs sauvages.
+Et si vous voulez sauver de l’argent à plus long-terme, participez dans votre grainothèque locale! [**Visitez cette page pour un guide publié à l’avenir**](https://hemiboreal.com/fr/sharing-our-nature/) portant sur les grainothèques de fleurs sauvages.
 
 ---
 
